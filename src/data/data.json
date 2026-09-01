@@ -1,0 +1,4422 @@
+[
+  {
+    "title": "How to find Test Paper and Answer key in the test section.mp4",
+    "durationSeconds": 39.846,
+    "durationFormatted": "00:00:39"
+  },
+  {
+    "title": "Demo Lecture by Amulya Ratan Sir.mp4",
+    "durationSeconds": 1836,
+    "durationFormatted": "00:30:36"
+  },
+  {
+    "title": "Demo Lecture by Puneet Sir.mp4",
+    "durationSeconds": 1091,
+    "durationFormatted": "00:18:11"
+  },
+  {
+    "title": "Demo Lecture by Vishal Rawtiya Sir.mp4",
+    "durationSeconds": 5156,
+    "durationFormatted": "01:25:56"
+  },
+  {
+    "title": "Demo Lecture by K Satya Narayana Sir.mp4",
+    "durationSeconds": 2800,
+    "durationFormatted": "00:46:40"
+  },
+  {
+    "title": "Demo Lecture by Abhishek Sharma Sir.mp4",
+    "durationSeconds": 1255,
+    "durationFormatted": "00:20:55"
+  },
+  {
+    "title": "Demo Lecture by Venkat Sir.mp4",
+    "durationSeconds": 1448,
+    "durationFormatted": "00:24:08"
+  },
+  {
+    "title": "Demo Lecture by Venkat Sir.mp4",
+    "durationSeconds": 1543,
+    "durationFormatted": "00:25:43"
+  },
+  {
+    "title": "Live Interactive Session by Vishvadeep Gothi Sir.mp4",
+    "durationSeconds": 2891,
+    "durationFormatted": "00:48:11"
+  },
+  {
+    "title": "Process Management 01 : Basics of OS.mp4",
+    "durationSeconds": 6546,
+    "durationFormatted": "01:49:06"
+  },
+  {
+    "title": "Process Management 02 : Process Management (Part 1).mp4",
+    "durationSeconds": 7024,
+    "durationFormatted": "01:57:04"
+  },
+  {
+    "title": "Process Management 03 : Process Management (Part 2).mp4",
+    "durationSeconds": 7540,
+    "durationFormatted": "02:05:40"
+  },
+  {
+    "title": "CPU Scheduling 01 : CPU Scheduling Algo, FCFS, SJF.mp4",
+    "durationSeconds": 7102,
+    "durationFormatted": "01:58:22"
+  },
+  {
+    "title": "CPU Scheduling 02 : SRTF, HRRN, Priority.mp4",
+    "durationSeconds": 6621,
+    "durationFormatted": "01:50:21"
+  },
+  {
+    "title": "CPU_Scheduling_03_:_CPU_Scheduling_LJT,_LRTF,_HRRN,_Priority_Based.mp4",
+    "durationSeconds": 6959,
+    "durationFormatted": "01:55:59"
+  },
+  {
+    "title": "CPU Scheduling 04 : CPU Scheduling Algo RR, MLQ, MLFQ.mp4",
+    "durationSeconds": 7404,
+    "durationFormatted": "02:03:24"
+  },
+  {
+    "title": "CPU_Scheduling_05_:_CPU_Scheduling_Algo_Questions_and_Other_Details.mp4",
+    "durationSeconds": 7244,
+    "durationFormatted": "02:00:44"
+  },
+  {
+    "title": "CPU_Scheduling_06_:_Scheduling_Questions,_Multithreading,_System.mp4",
+    "durationSeconds": 7427,
+    "durationFormatted": "02:03:47"
+  },
+  {
+    "title": "Process_Synchronization_01_:_System_Call,_Process_Synchronization.mp4",
+    "durationSeconds": 6633,
+    "durationFormatted": "01:50:33"
+  },
+  {
+    "title": "Process_Synchronization_02_:_Process_Synchronization_Solution.mp4",
+    "durationSeconds": 7063,
+    "durationFormatted": "01:57:43"
+  },
+  {
+    "title": "Process_Synchronization_03_:_Process_Synchronization_SolutionPart.mp4",
+    "durationSeconds": 7091,
+    "durationFormatted": "01:58:11"
+  },
+  {
+    "title": "Process Synchronization 04 : Synchronization Hardware.mp4",
+    "durationSeconds": 6181,
+    "durationFormatted": "01:43:01"
+  },
+  {
+    "title": "Process Synchronization 05 : Semaphore.mp4",
+    "durationSeconds": 6417,
+    "durationFormatted": "01:46:57"
+  },
+  {
+    "title": "Process_Synchronization_06_:_Semaphore_&_Classical_Synchronization.mp4",
+    "durationSeconds": 6826,
+    "durationFormatted": "01:53:46"
+  },
+  {
+    "title": "Process Synchronization 07 : Classical Sync Problems.mp4",
+    "durationSeconds": 6838,
+    "durationFormatted": "01:53:58"
+  },
+  {
+    "title": "Deadlock 01 : Deadlock & Deadlock Prevention.mp4",
+    "durationSeconds": 6449,
+    "durationFormatted": "01:47:29"
+  },
+  {
+    "title": "Deadlock 02 : Deadlock Prevention(Part-2) and Avoidance.mp4",
+    "durationSeconds": 6249,
+    "durationFormatted": "01:44:09"
+  },
+  {
+    "title": "Deadlock_03_:_Deadlock_AvoidancePart_2_and_Banker's_Algorithm.mp4",
+    "durationSeconds": 6491,
+    "durationFormatted": "01:48:11"
+  },
+  {
+    "title": "Deadlock 04 : Deadlock Detection.mp4",
+    "durationSeconds": 8279,
+    "durationFormatted": "02:17:59"
+  },
+  {
+    "title": "Memory Management 01 : Memory Management Contiguous.mp4",
+    "durationSeconds": 6887,
+    "durationFormatted": "01:54:47"
+  },
+  {
+    "title": "Memory Management 02 : Paging and Address Translation.mp4",
+    "durationSeconds": 6633,
+    "durationFormatted": "01:50:33"
+  },
+  {
+    "title": "Memory_Management_03_:_Address_TranslationPart_2_and_Paging_Performance.mp4",
+    "durationSeconds": 6483,
+    "durationFormatted": "01:48:03"
+  },
+  {
+    "title": "Memory Management 04 : Paging Performance(Part-2) and TLB.mp4",
+    "durationSeconds": 5207,
+    "durationFormatted": "01:26:47"
+  },
+  {
+    "title": "Memory Management 05 : TLB mapping and segmentation.mp4",
+    "durationSeconds": 6005,
+    "durationFormatted": "01:40:05"
+  },
+  {
+    "title": "Virtual Memory 01 : Virtual Memory.mp4",
+    "durationSeconds": 6791,
+    "durationFormatted": "01:53:11"
+  },
+  {
+    "title": "Virtual Memory 02 : Virtual Memory (Part 02).mp4",
+    "durationSeconds": 6924,
+    "durationFormatted": "01:55:24"
+  },
+  {
+    "title": "Virtual Memory 03 : Page Fault and Page replacement.mp4",
+    "durationSeconds": 6899,
+    "durationFormatted": "01:54:59"
+  },
+  {
+    "title": "Virtual Memory 04 : Frame Allocation and Multilevel Paging.mp4",
+    "durationSeconds": 6814,
+    "durationFormatted": "01:53:34"
+  },
+  {
+    "title": "Virtual_Memory_05_:_Multilevel_Paging,_Inverted_and_Hashed_Page.mp4",
+    "durationSeconds": 6927,
+    "durationFormatted": "01:55:27"
+  },
+  {
+    "title": "Virtual_Memory_06_:_Effective_Memory_Access_Time_in_Multilevel_Paging.mp4",
+    "durationSeconds": 5824,
+    "durationFormatted": "01:37:04"
+  },
+  {
+    "title": "File System 01 : File System and Disk Blocks.mp4",
+    "durationSeconds": 6263,
+    "durationFormatted": "01:44:23"
+  },
+  {
+    "title": "File System 02 :  File Allocation.mp4",
+    "durationSeconds": 6891,
+    "durationFormatted": "01:54:51"
+  },
+  {
+    "title": "File System 03 : Disk Scheduling.mp4",
+    "durationSeconds": 6129,
+    "durationFormatted": "01:42:09"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1450,
+    "durationFormatted": "00:24:10"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 4351,
+    "durationFormatted": "01:12:31"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 2607,
+    "durationFormatted": "00:43:27"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1988,
+    "durationFormatted": "00:33:08"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 2494,
+    "durationFormatted": "00:41:34"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 2458,
+    "durationFormatted": "00:40:58"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1472,
+    "durationFormatted": "00:24:32"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_01_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 7967,
+    "durationFormatted": "02:12:47"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_02_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 7579,
+    "durationFormatted": "02:06:19"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_03_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6968,
+    "durationFormatted": "01:56:08"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_04_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6078,
+    "durationFormatted": "01:41:18"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_05_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 7184,
+    "durationFormatted": "01:59:44"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_06_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 7678,
+    "durationFormatted": "02:07:58"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_07_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6853,
+    "durationFormatted": "01:54:13"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_08_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6751,
+    "durationFormatted": "01:52:31"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_09_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6864,
+    "durationFormatted": "01:54:24"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_10_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6643,
+    "durationFormatted": "01:50:43"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_11_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6721,
+    "durationFormatted": "01:52:01"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_12_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6293,
+    "durationFormatted": "01:44:53"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_13_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 5492,
+    "durationFormatted": "01:31:32"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_14_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 7325,
+    "durationFormatted": "02:02:05"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_15_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6911,
+    "durationFormatted": "01:55:11"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_16_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6665,
+    "durationFormatted": "01:51:05"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_17_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 7014,
+    "durationFormatted": "01:56:54"
+  },
+  {
+    "title": "Query Languages 01 : Query Languages (Part 01).mp4",
+    "durationSeconds": 6841,
+    "durationFormatted": "01:54:01"
+  },
+  {
+    "title": "Query Languages 02 : Query Languages (Part 02).mp4",
+    "durationSeconds": 7473,
+    "durationFormatted": "02:04:33"
+  },
+  {
+    "title": "Query Languages 03 : Query Languages (Part 03).mp4",
+    "durationSeconds": 6903,
+    "durationFormatted": "01:55:03"
+  },
+  {
+    "title": "Query Languages 04 : Query Languages (Part 04).mp4",
+    "durationSeconds": 6534,
+    "durationFormatted": "01:48:54"
+  },
+  {
+    "title": "Query Languages 05 : Query Languages (Part 05).mp4",
+    "durationSeconds": 3992,
+    "durationFormatted": "01:06:32"
+  },
+  {
+    "title": "Query Languages 06 : Query Languages (Part 06).mp4",
+    "durationSeconds": 6994,
+    "durationFormatted": "01:56:34"
+  },
+  {
+    "title": "Query Languages 07 : Query Languages (Part 07).mp4",
+    "durationSeconds": 9380,
+    "durationFormatted": "02:36:20"
+  },
+  {
+    "title": "Query Languages 08 : Query Languages (Part 08).mp4",
+    "durationSeconds": 7906,
+    "durationFormatted": "02:11:46"
+  },
+  {
+    "title": "Query Languages 09 : Query Languages (Part 09).mp4",
+    "durationSeconds": 5993,
+    "durationFormatted": "01:39:53"
+  },
+  {
+    "title": "Query Languages 10 : Query Languages (Part 10).mp4",
+    "durationSeconds": 7864,
+    "durationFormatted": "02:11:04"
+  },
+  {
+    "title": "Query Languages 11 : Query Languages (Part 11).mp4",
+    "durationSeconds": 7305,
+    "durationFormatted": "02:01:45"
+  },
+  {
+    "title": "Query Languages 12 : Query Languages (Part 12).mp4",
+    "durationSeconds": 6335,
+    "durationFormatted": "01:45:35"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_01_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 8680,
+    "durationFormatted": "02:24:40"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_02_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 8036,
+    "durationFormatted": "02:13:56"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_03_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 7261,
+    "durationFormatted": "02:01:01"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_04_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 7971,
+    "durationFormatted": "02:12:51"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_05_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 8198,
+    "durationFormatted": "02:16:38"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_06_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 7823,
+    "durationFormatted": "02:10:23"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_07_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 4649,
+    "durationFormatted": "01:17:29"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_08_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 2838,
+    "durationFormatted": "00:47:18"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_09_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 6030,
+    "durationFormatted": "01:40:30"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_10_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 8588,
+    "durationFormatted": "02:23:08"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_11_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 5850,
+    "durationFormatted": "01:37:30"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_12_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 6617,
+    "durationFormatted": "01:50:17"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_13_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 5922,
+    "durationFormatted": "01:38:42"
+  },
+  {
+    "title": "File_Organization_and_Indexing_01_:_File_Organization_and_Indexing.mp4",
+    "durationSeconds": 10242,
+    "durationFormatted": "02:50:42"
+  },
+  {
+    "title": "File_Organization_and_Indexing_02_:_File_Organization_and_Indexing.mp4",
+    "durationSeconds": 5752,
+    "durationFormatted": "01:35:52"
+  },
+  {
+    "title": "File_Organization_and_Indexing_03_:_File_Organization_and_Indexing.mp4",
+    "durationSeconds": 6500,
+    "durationFormatted": "01:48:20"
+  },
+  {
+    "title": "File_Organization_and_Indexing_04_:_File_Organization_and_Indexing.mp4",
+    "durationSeconds": 6171,
+    "durationFormatted": "01:42:51"
+  },
+  {
+    "title": "File_Organization_and_Indexing_05_:_File_Organization_and_Indexing.mp4",
+    "durationSeconds": 6270,
+    "durationFormatted": "01:44:30"
+  },
+  {
+    "title": "File_Organization_and_Indexing_07_:_File_Organization_and_Indexing.mp4",
+    "durationSeconds": 6458,
+    "durationFormatted": "01:47:38"
+  },
+  {
+    "title": "File_Organization_and_Indexing_06_:_File_Organization_and_Indexing.mp4",
+    "durationSeconds": 7118,
+    "durationFormatted": "01:58:38"
+  },
+  {
+    "title": "B Tree and B+ Tree 01 : B Tree and B+ Tree (Part 01).mp4",
+    "durationSeconds": 5862,
+    "durationFormatted": "01:37:42"
+  },
+  {
+    "title": "B Tree and B+ Tree 02 : B Tree and B+ Tree (Part 02).mp4",
+    "durationSeconds": 6081,
+    "durationFormatted": "01:41:21"
+  },
+  {
+    "title": "ER Model 01 : ER Model (Part 01).mp4",
+    "durationSeconds": 3866,
+    "durationFormatted": "01:04:26"
+  },
+  {
+    "title": "ER Model 02 : ER Model (Part 02).mp4",
+    "durationSeconds": 6470,
+    "durationFormatted": "01:47:50"
+  },
+  {
+    "title": "Conversion_from_ER_Model_to_Relational_Model_01_:_Conversion_from.mp4",
+    "durationSeconds": 5378,
+    "durationFormatted": "01:29:38"
+  },
+  {
+    "title": "Conversion_from_ER_Model_to_Relational_Model_02_:_Conversion_from.mp4",
+    "durationSeconds": 6318,
+    "durationFormatted": "01:45:18"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 2282,
+    "durationFormatted": "00:38:02"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1733,
+    "durationFormatted": "00:28:53"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1609,
+    "durationFormatted": "00:26:49"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 5624,
+    "durationFormatted": "01:33:44"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1856,
+    "durationFormatted": "00:30:56"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1948,
+    "durationFormatted": "00:32:28"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 2298,
+    "durationFormatted": "00:38:18"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 2861,
+    "durationFormatted": "00:47:41"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1025,
+    "durationFormatted": "00:17:05"
+  },
+  {
+    "title": "App Navigation.mp4",
+    "durationSeconds": 186,
+    "durationFormatted": "00:03:06"
+  },
+  {
+    "title": "Doubt Resolution.mp4",
+    "durationSeconds": 66.133,
+    "durationFormatted": "00:01:06"
+  },
+  {
+    "title": "Mitra's Welcome Video.mp4",
+    "durationSeconds": 52.9,
+    "durationFormatted": "00:00:52"
+  },
+  {
+    "title": "Permutations_and_Combinations_01_:_Permutations_and_Combinations.mp4",
+    "durationSeconds": 11917,
+    "durationFormatted": "03:18:37"
+  },
+  {
+    "title": "Permutations_and_Combinations_02_:_Permutations_and_Combinations.mp4",
+    "durationSeconds": 10743,
+    "durationFormatted": "02:59:03"
+  },
+  {
+    "title": "Permutations_and_Combinations_03_:_Permutations_and_Combinations.mp4",
+    "durationSeconds": 12172,
+    "durationFormatted": "03:22:52"
+  },
+  {
+    "title": "Permutations_and_Combinations_04_:_Permutations_and_Combinations.mp4",
+    "durationSeconds": 9697,
+    "durationFormatted": "02:41:37"
+  },
+  {
+    "title": "Permutation & Combinations : DPP 01 Discussion.mp4",
+    "durationSeconds": 2769,
+    "durationFormatted": "00:46:09"
+  },
+  {
+    "title": "Probability 01 : Probability (Part 01).mp4",
+    "durationSeconds": 12229,
+    "durationFormatted": "03:23:49"
+  },
+  {
+    "title": "Probability 02 : Probability (Part 02).mp4",
+    "durationSeconds": 10927,
+    "durationFormatted": "03:02:07"
+  },
+  {
+    "title": "Probability 03 : Probability (Part 03).mp4",
+    "durationSeconds": 11377,
+    "durationFormatted": "03:09:37"
+  },
+  {
+    "title": "Probability 04 : Probability (Part 04).mp4",
+    "durationSeconds": 9614,
+    "durationFormatted": "02:40:14"
+  },
+  {
+    "title": "Probability 05 : Probability (Part 05).mp4",
+    "durationSeconds": 10601,
+    "durationFormatted": "02:56:41"
+  },
+  {
+    "title": "Probability 06 : Probability (Part 06).mp4",
+    "durationSeconds": 9992,
+    "durationFormatted": "02:46:32"
+  },
+  {
+    "title": "Probability : DPP 01 Discussion.mp4",
+    "durationSeconds": 5273,
+    "durationFormatted": "01:27:53"
+  },
+  {
+    "title": "Statistics 1 01 : Statistics 1 (Part 01).mp4",
+    "durationSeconds": 10102,
+    "durationFormatted": "02:48:22"
+  },
+  {
+    "title": "Statistics 1 02 : Statistics 1 (Part 02) || Extra Class.mp4",
+    "durationSeconds": 12160,
+    "durationFormatted": "03:22:40"
+  },
+  {
+    "title": "Statistics_1_03_:_Statistics_1_Part_03_||_Extra_Class_||_Reschedule.mp4",
+    "durationSeconds": 14019,
+    "durationFormatted": "03:53:39"
+  },
+  {
+    "title": "Statistics 1 04 : Statistics 1 (Part 04).mp4",
+    "durationSeconds": 9350,
+    "durationFormatted": "02:35:50"
+  },
+  {
+    "title": "Statistics 1 05 : Statistics 1 (Part 05).mp4",
+    "durationSeconds": 8797,
+    "durationFormatted": "02:26:37"
+  },
+  {
+    "title": "Statistics 1 06 : Statistics 1 (Part 06).mp4",
+    "durationSeconds": 10006,
+    "durationFormatted": "02:46:46"
+  },
+  {
+    "title": "Statistics 1 07 : Statistics 1 (Part 07).mp4",
+    "durationSeconds": 10130,
+    "durationFormatted": "02:48:50"
+  },
+  {
+    "title": "Statistics 1 08 : Statistics 1 (Part 08).mp4",
+    "durationSeconds": 10033,
+    "durationFormatted": "02:47:13"
+  },
+  {
+    "title": "Statistics 1 09 : Statistics 1 (Part 09).mp4",
+    "durationSeconds": 9599,
+    "durationFormatted": "02:39:59"
+  },
+  {
+    "title": "Statistics : DPP 01 Discussion.mp4",
+    "durationSeconds": 4697,
+    "durationFormatted": "01:18:17"
+  },
+  {
+    "title": "Statistics : DPP 02 Discussion.mp4",
+    "durationSeconds": 6018,
+    "durationFormatted": "01:40:18"
+  },
+  {
+    "title": "Statistics 2 01 : Statistics 2 (Part 01).mp4",
+    "durationSeconds": 9303,
+    "durationFormatted": "02:35:03"
+  },
+  {
+    "title": "Statistics 2 02 : Statistics 2 (Part 02).mp4",
+    "durationSeconds": 10094,
+    "durationFormatted": "02:48:14"
+  },
+  {
+    "title": "Statistics 2 03 : Statistics 2 (Part 03).mp4",
+    "durationSeconds": 9637,
+    "durationFormatted": "02:40:37"
+  },
+  {
+    "title": "Statistics 2 04 : Statistics 2 (Part 04) || Rescheduled.mp4",
+    "durationSeconds": 7776,
+    "durationFormatted": "02:09:36"
+  },
+  {
+    "title": "Statistics 2 05 : Statistics 2 (Part 05).mp4",
+    "durationSeconds": 9179,
+    "durationFormatted": "02:32:59"
+  },
+  {
+    "title": "Statistics 2 06 : Statistics 2 (Part 06) || Rescheduled.mp4",
+    "durationSeconds": 4974,
+    "durationFormatted": "01:22:54"
+  },
+  {
+    "title": "Statistics 2 07 : Statistics 2 (Part 07).mp4",
+    "durationSeconds": 12149,
+    "durationFormatted": "03:22:29"
+  },
+  {
+    "title": "Statistics 2 08 : Statistics 2 (Part 08).mp4",
+    "durationSeconds": 5617,
+    "durationFormatted": "01:33:37"
+  },
+  {
+    "title": "Statistics 2 : DPP 01 Discussion.mp4",
+    "durationSeconds": 4754,
+    "durationFormatted": "01:19:14"
+  },
+  {
+    "title": "Statistics 2 : DPP 02 Discussion.mp4",
+    "durationSeconds": 4525,
+    "durationFormatted": "01:15:25"
+  },
+  {
+    "title": "Language Processor and Tokens (One Shot).mp4",
+    "durationSeconds": 7555,
+    "durationFormatted": "02:05:55"
+  },
+  {
+    "title": "Data_Types_and_Operator_01_:_Data_Types_and_Operator_Part_01.mp4",
+    "durationSeconds": 5078,
+    "durationFormatted": "01:24:38"
+  },
+  {
+    "title": "Data_Types_and_Operator_02_:_Data_Types_and_Operator_Part_02.mp4",
+    "durationSeconds": 7783,
+    "durationFormatted": "02:09:43"
+  },
+  {
+    "title": "Data_Types_and_Operator_03_:_Data_Types_and_Operator_Part_03.mp4",
+    "durationSeconds": 7330,
+    "durationFormatted": "02:02:10"
+  },
+  {
+    "title": "Data_Types_and_Operator_04_:_Data_Types_and_Operator_Part_04.mp4",
+    "durationSeconds": 6173,
+    "durationFormatted": "01:42:53"
+  },
+  {
+    "title": "Data_Types_and_Operator_05_:_Data_Types_and_Operator_Part_05.mp4",
+    "durationSeconds": 6678,
+    "durationFormatted": "01:51:18"
+  },
+  {
+    "title": "Data Types and Operator : DPP 01 Discussion.mp4",
+    "durationSeconds": 1678,
+    "durationFormatted": "00:27:58"
+  },
+  {
+    "title": "Data Types and Operator : DPP 02 Discussion.mp4",
+    "durationSeconds": 1407,
+    "durationFormatted": "00:23:27"
+  },
+  {
+    "title": "Data Types and Operator : DPP 03 Discussion.mp4",
+    "durationSeconds": 900,
+    "durationFormatted": "00:15:00"
+  },
+  {
+    "title": "Control Flow Statement 01 : Control Flow Statement (Part 01).mp4",
+    "durationSeconds": 7252,
+    "durationFormatted": "02:00:52"
+  },
+  {
+    "title": "Control Flow Statement 02 : Control Flow Statement (Part 02).mp4",
+    "durationSeconds": 6839,
+    "durationFormatted": "01:53:59"
+  },
+  {
+    "title": "Control Flow Statement 03 : Control Flow Statement (Part 03).mp4",
+    "durationSeconds": 7221,
+    "durationFormatted": "02:00:21"
+  },
+  {
+    "title": "Control Flow Statement 04 : Control Flow Statement (Part 04).mp4",
+    "durationSeconds": 6844,
+    "durationFormatted": "01:54:04"
+  },
+  {
+    "title": "Control Flow Statement 05 : Control Flow Statement (Part 05).mp4",
+    "durationSeconds": 6801,
+    "durationFormatted": "01:53:21"
+  },
+  {
+    "title": "Control Flow Statement : DPP 01 Discussion.mp4",
+    "durationSeconds": 1211,
+    "durationFormatted": "00:20:11"
+  },
+  {
+    "title": "Control Flow Statement : DPP 02 Discussion.mp4",
+    "durationSeconds": 1922,
+    "durationFormatted": "00:32:02"
+  },
+  {
+    "title": "New Update : Study Page (Web) || (Video Only).mp4",
+    "durationSeconds": 256,
+    "durationFormatted": "00:04:16"
+  },
+  {
+    "title": "New Feature Update : Audio Mode || (Video Only).mp4",
+    "durationSeconds": 63.7,
+    "durationFormatted": "00:01:03"
+  },
+  {
+    "title": "New Update : Study Page (App) || (Video Only).mp4",
+    "durationSeconds": 329,
+    "durationFormatted": "00:05:29"
+  },
+  {
+    "title": "New feature update : Chat Template || (Video Only).mp4",
+    "durationSeconds": 142.567,
+    "durationFormatted": "00:02:22"
+  },
+  {
+    "title": "New_Feature_Update_:_Notes_Feature_in_Video_Player_||_Video_Only.mp4",
+    "durationSeconds": 191.067,
+    "durationFormatted": "00:03:11"
+  },
+  {
+    "title": "Important Update : Dark Mode.mp4",
+    "durationSeconds": 20.667,
+    "durationFormatted": "00:00:20"
+  },
+  {
+    "title": "New_Feature_Update_:_New_Quality_Options_in_Video_Player_||_Video.mp4",
+    "durationSeconds": 35.467,
+    "durationFormatted": "00:00:35"
+  },
+  {
+    "title": "How to find Test Paper and Answer key in the test section.mp4",
+    "durationSeconds": 39.846,
+    "durationFormatted": "00:00:39"
+  },
+  {
+    "title": "Demo Lecture by Amulya Ratan Sir.mp4",
+    "durationSeconds": 1836,
+    "durationFormatted": "00:30:36"
+  },
+  {
+    "title": "Demo Lecture by Puneet Sir.mp4",
+    "durationSeconds": 1091,
+    "durationFormatted": "00:18:11"
+  },
+  {
+    "title": "Demo Lecture by Vishal Rawtiya Sir.mp4",
+    "durationSeconds": 5156,
+    "durationFormatted": "01:25:56"
+  },
+  {
+    "title": "Demo Lecture by K Satya Narayana Sir.mp4",
+    "durationSeconds": 2800,
+    "durationFormatted": "00:46:40"
+  },
+  {
+    "title": "Demo Lecture by Abhishek Sharma Sir.mp4",
+    "durationSeconds": 1255,
+    "durationFormatted": "00:20:55"
+  },
+  {
+    "title": "Demo Lecture by Venkat Sir.mp4",
+    "durationSeconds": 1448,
+    "durationFormatted": "00:24:08"
+  },
+  {
+    "title": "Demo Lecture by Venkat Sir.mp4",
+    "durationSeconds": 1543,
+    "durationFormatted": "00:25:43"
+  },
+  {
+    "title": "Live Interactive Session by Vishvadeep Gothi Sir.mp4",
+    "durationSeconds": 2891,
+    "durationFormatted": "00:48:11"
+  },
+  {
+    "title": "Process Management 01 : Basics of OS.mp4",
+    "durationSeconds": 6546,
+    "durationFormatted": "01:49:06"
+  },
+  {
+    "title": "Process Management 02 : Process Management (Part 1).mp4",
+    "durationSeconds": 7024,
+    "durationFormatted": "01:57:04"
+  },
+  {
+    "title": "Process Management 03 : Process Management (Part 2).mp4",
+    "durationSeconds": 7540,
+    "durationFormatted": "02:05:40"
+  },
+  {
+    "title": "CPU Scheduling 01 : CPU Scheduling Algo, FCFS, SJF.mp4",
+    "durationSeconds": 7102,
+    "durationFormatted": "01:58:22"
+  },
+  {
+    "title": "CPU Scheduling 02 : SRTF, HRRN, Priority.mp4",
+    "durationSeconds": 6621,
+    "durationFormatted": "01:50:21"
+  },
+  {
+    "title": "CPU_Scheduling_03_:_CPU_Scheduling_LJT,_LRTF,_HRRN,_Priority_Based.mp4",
+    "durationSeconds": 6959,
+    "durationFormatted": "01:55:59"
+  },
+  {
+    "title": "CPU Scheduling 04 : CPU Scheduling Algo RR, MLQ, MLFQ.mp4",
+    "durationSeconds": 7404,
+    "durationFormatted": "02:03:24"
+  },
+  {
+    "title": "CPU_Scheduling_05_:_CPU_Scheduling_Algo_Questions_and_Other_Details.mp4",
+    "durationSeconds": 7244,
+    "durationFormatted": "02:00:44"
+  },
+  {
+    "title": "CPU_Scheduling_06_:_Scheduling_Questions,_Multithreading,_System.mp4",
+    "durationSeconds": 7427,
+    "durationFormatted": "02:03:47"
+  },
+  {
+    "title": "Process_Synchronization_01_:_System_Call,_Process_Synchronization.mp4",
+    "durationSeconds": 6633,
+    "durationFormatted": "01:50:33"
+  },
+  {
+    "title": "Process_Synchronization_02_:_Process_Synchronization_Solution.mp4",
+    "durationSeconds": 7063,
+    "durationFormatted": "01:57:43"
+  },
+  {
+    "title": "Process_Synchronization_03_:_Process_Synchronization_SolutionPart.mp4",
+    "durationSeconds": 7091,
+    "durationFormatted": "01:58:11"
+  },
+  {
+    "title": "Process Synchronization 04 : Synchronization Hardware.mp4",
+    "durationSeconds": 6181,
+    "durationFormatted": "01:43:01"
+  },
+  {
+    "title": "Process Synchronization 05 : Semaphore.mp4",
+    "durationSeconds": 6417,
+    "durationFormatted": "01:46:57"
+  },
+  {
+    "title": "Process_Synchronization_06_:_Semaphore_&_Classical_Synchronization.mp4",
+    "durationSeconds": 6826,
+    "durationFormatted": "01:53:46"
+  },
+  {
+    "title": "Process Synchronization 07 : Classical Sync Problems.mp4",
+    "durationSeconds": 6838,
+    "durationFormatted": "01:53:58"
+  },
+  {
+    "title": "Deadlock 01 : Deadlock & Deadlock Prevention.mp4",
+    "durationSeconds": 6449,
+    "durationFormatted": "01:47:29"
+  },
+  {
+    "title": "Deadlock 02 : Deadlock Prevention(Part-2) and Avoidance.mp4",
+    "durationSeconds": 6249,
+    "durationFormatted": "01:44:09"
+  },
+  {
+    "title": "Deadlock_03_:_Deadlock_AvoidancePart_2_and_Banker's_Algorithm.mp4",
+    "durationSeconds": 6491,
+    "durationFormatted": "01:48:11"
+  },
+  {
+    "title": "Deadlock 04 : Deadlock Detection.mp4",
+    "durationSeconds": 8279,
+    "durationFormatted": "02:17:59"
+  },
+  {
+    "title": "Memory Management 01 : Memory Management Contiguous.mp4",
+    "durationSeconds": 6887,
+    "durationFormatted": "01:54:47"
+  },
+  {
+    "title": "Memory Management 02 : Paging and Address Translation.mp4",
+    "durationSeconds": 6633,
+    "durationFormatted": "01:50:33"
+  },
+  {
+    "title": "Memory_Management_03_:_Address_TranslationPart_2_and_Paging_Performance.mp4",
+    "durationSeconds": 6483,
+    "durationFormatted": "01:48:03"
+  },
+  {
+    "title": "Memory Management 04 : Paging Performance(Part-2) and TLB.mp4",
+    "durationSeconds": 5207,
+    "durationFormatted": "01:26:47"
+  },
+  {
+    "title": "Memory Management 05 : TLB mapping and segmentation.mp4",
+    "durationSeconds": 6005,
+    "durationFormatted": "01:40:05"
+  },
+  {
+    "title": "Virtual Memory 01 : Virtual Memory.mp4",
+    "durationSeconds": 6791,
+    "durationFormatted": "01:53:11"
+  },
+  {
+    "title": "Virtual Memory 02 : Virtual Memory (Part 02).mp4",
+    "durationSeconds": 6924,
+    "durationFormatted": "01:55:24"
+  },
+  {
+    "title": "Virtual Memory 03 : Page Fault and Page replacement.mp4",
+    "durationSeconds": 6899,
+    "durationFormatted": "01:54:59"
+  },
+  {
+    "title": "Virtual Memory 04 : Frame Allocation and Multilevel Paging.mp4",
+    "durationSeconds": 6814,
+    "durationFormatted": "01:53:34"
+  },
+  {
+    "title": "Virtual_Memory_05_:_Multilevel_Paging,_Inverted_and_Hashed_Page.mp4",
+    "durationSeconds": 6927,
+    "durationFormatted": "01:55:27"
+  },
+  {
+    "title": "Virtual_Memory_06_:_Effective_Memory_Access_Time_in_Multilevel_Paging.mp4",
+    "durationSeconds": 5824,
+    "durationFormatted": "01:37:04"
+  },
+  {
+    "title": "File System 01 : File System and Disk Blocks.mp4",
+    "durationSeconds": 6263,
+    "durationFormatted": "01:44:23"
+  },
+  {
+    "title": "File System 02 :  File Allocation.mp4",
+    "durationSeconds": 6891,
+    "durationFormatted": "01:54:51"
+  },
+  {
+    "title": "File System 03 : Disk Scheduling.mp4",
+    "durationSeconds": 6129,
+    "durationFormatted": "01:42:09"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1450,
+    "durationFormatted": "00:24:10"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 4351,
+    "durationFormatted": "01:12:31"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 2607,
+    "durationFormatted": "00:43:27"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1988,
+    "durationFormatted": "00:33:08"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 2494,
+    "durationFormatted": "00:41:34"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 2458,
+    "durationFormatted": "00:40:58"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1472,
+    "durationFormatted": "00:24:32"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_01_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 7967,
+    "durationFormatted": "02:12:47"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_02_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 7579,
+    "durationFormatted": "02:06:19"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_03_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6968,
+    "durationFormatted": "01:56:08"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_04_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6078,
+    "durationFormatted": "01:41:18"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_05_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 7184,
+    "durationFormatted": "01:59:44"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_06_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 7678,
+    "durationFormatted": "02:07:58"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_07_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6853,
+    "durationFormatted": "01:54:13"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_08_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6751,
+    "durationFormatted": "01:52:31"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_09_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6864,
+    "durationFormatted": "01:54:24"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_10_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6643,
+    "durationFormatted": "01:50:43"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_11_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6721,
+    "durationFormatted": "01:52:01"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_12_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6293,
+    "durationFormatted": "01:44:53"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_13_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 5492,
+    "durationFormatted": "01:31:32"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_14_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 7325,
+    "durationFormatted": "02:02:05"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_15_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6911,
+    "durationFormatted": "01:55:11"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_16_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 6665,
+    "durationFormatted": "01:51:05"
+  },
+  {
+    "title": "Relational_model_and_Normal_forms_17_:_Relational_model_and_Normal.mp4",
+    "durationSeconds": 7014,
+    "durationFormatted": "01:56:54"
+  },
+  {
+    "title": "Query Languages 01 : Query Languages (Part 01).mp4",
+    "durationSeconds": 6841,
+    "durationFormatted": "01:54:01"
+  },
+  {
+    "title": "Query Languages 02 : Query Languages (Part 02).mp4",
+    "durationSeconds": 7473,
+    "durationFormatted": "02:04:33"
+  },
+  {
+    "title": "Query Languages 03 : Query Languages (Part 03).mp4",
+    "durationSeconds": 6903,
+    "durationFormatted": "01:55:03"
+  },
+  {
+    "title": "Query Languages 04 : Query Languages (Part 04).mp4",
+    "durationSeconds": 6534,
+    "durationFormatted": "01:48:54"
+  },
+  {
+    "title": "Query Languages 05 : Query Languages (Part 05).mp4",
+    "durationSeconds": 3992,
+    "durationFormatted": "01:06:32"
+  },
+  {
+    "title": "Query Languages 06 : Query Languages (Part 06).mp4",
+    "durationSeconds": 6994,
+    "durationFormatted": "01:56:34"
+  },
+  {
+    "title": "Query Languages 07 : Query Languages (Part 07).mp4",
+    "durationSeconds": 9380,
+    "durationFormatted": "02:36:20"
+  },
+  {
+    "title": "Query Languages 08 : Query Languages (Part 08).mp4",
+    "durationSeconds": 7906,
+    "durationFormatted": "02:11:46"
+  },
+  {
+    "title": "Query Languages 09 : Query Languages (Part 09).mp4",
+    "durationSeconds": 5993,
+    "durationFormatted": "01:39:53"
+  },
+  {
+    "title": "Query Languages 10 : Query Languages (Part 10).mp4",
+    "durationSeconds": 7864,
+    "durationFormatted": "02:11:04"
+  },
+  {
+    "title": "Query Languages 11 : Query Languages (Part 11).mp4",
+    "durationSeconds": 7305,
+    "durationFormatted": "02:01:45"
+  },
+  {
+    "title": "Query Languages 12 : Query Languages (Part 12).mp4",
+    "durationSeconds": 6335,
+    "durationFormatted": "01:45:35"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_01_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 8680,
+    "durationFormatted": "02:24:40"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_02_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 8036,
+    "durationFormatted": "02:13:56"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_03_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 7261,
+    "durationFormatted": "02:01:01"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_04_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 7971,
+    "durationFormatted": "02:12:51"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_05_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 8198,
+    "durationFormatted": "02:16:38"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_06_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 7823,
+    "durationFormatted": "02:10:23"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_07_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 4649,
+    "durationFormatted": "01:17:29"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_08_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 2838,
+    "durationFormatted": "00:47:18"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_09_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 6030,
+    "durationFormatted": "01:40:30"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_10_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 8588,
+    "durationFormatted": "02:23:08"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_11_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 5850,
+    "durationFormatted": "01:37:30"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_12_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 6617,
+    "durationFormatted": "01:50:17"
+  },
+  {
+    "title": "Transaction_and_Concurrency_Control_13_:_Transaction_and_Concurrency.mp4",
+    "durationSeconds": 5922,
+    "durationFormatted": "01:38:42"
+  },
+  {
+    "title": "File_Organization_and_Indexing_01_:_File_Organization_and_Indexing.mp4",
+    "durationSeconds": 10242,
+    "durationFormatted": "02:50:42"
+  },
+  {
+    "title": "File_Organization_and_Indexing_02_:_File_Organization_and_Indexing.mp4",
+    "durationSeconds": 5752,
+    "durationFormatted": "01:35:52"
+  },
+  {
+    "title": "File_Organization_and_Indexing_03_:_File_Organization_and_Indexing.mp4",
+    "durationSeconds": 6500,
+    "durationFormatted": "01:48:20"
+  },
+  {
+    "title": "File_Organization_and_Indexing_04_:_File_Organization_and_Indexing.mp4",
+    "durationSeconds": 6171,
+    "durationFormatted": "01:42:51"
+  },
+  {
+    "title": "File_Organization_and_Indexing_05_:_File_Organization_and_Indexing.mp4",
+    "durationSeconds": 6270,
+    "durationFormatted": "01:44:30"
+  },
+  {
+    "title": "File_Organization_and_Indexing_07_:_File_Organization_and_Indexing.mp4",
+    "durationSeconds": 6458,
+    "durationFormatted": "01:47:38"
+  },
+  {
+    "title": "File_Organization_and_Indexing_06_:_File_Organization_and_Indexing.mp4",
+    "durationSeconds": 7118,
+    "durationFormatted": "01:58:38"
+  },
+  {
+    "title": "B Tree and B+ Tree 01 : B Tree and B+ Tree (Part 01).mp4",
+    "durationSeconds": 5862,
+    "durationFormatted": "01:37:42"
+  },
+  {
+    "title": "B Tree and B+ Tree 02 : B Tree and B+ Tree (Part 02).mp4",
+    "durationSeconds": 6081,
+    "durationFormatted": "01:41:21"
+  },
+  {
+    "title": "ER Model 01 : ER Model (Part 01).mp4",
+    "durationSeconds": 3866,
+    "durationFormatted": "01:04:26"
+  },
+  {
+    "title": "ER Model 02 : ER Model (Part 02).mp4",
+    "durationSeconds": 6470,
+    "durationFormatted": "01:47:50"
+  },
+  {
+    "title": "Conversion_from_ER_Model_to_Relational_Model_01_:_Conversion_from.mp4",
+    "durationSeconds": 5378,
+    "durationFormatted": "01:29:38"
+  },
+  {
+    "title": "Conversion_from_ER_Model_to_Relational_Model_02_:_Conversion_from.mp4",
+    "durationSeconds": 6318,
+    "durationFormatted": "01:45:18"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 2282,
+    "durationFormatted": "00:38:02"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1733,
+    "durationFormatted": "00:28:53"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1609,
+    "durationFormatted": "00:26:49"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 3835,
+    "durationFormatted": "01:03:55"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 5624,
+    "durationFormatted": "01:33:44"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1856,
+    "durationFormatted": "00:30:56"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1948,
+    "durationFormatted": "00:32:28"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 2298,
+    "durationFormatted": "00:38:18"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 2861,
+    "durationFormatted": "00:47:41"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1025,
+    "durationFormatted": "00:17:05"
+  },
+  {
+    "title": "App Navigation.mp4",
+    "durationSeconds": 186.133,
+    "durationFormatted": "00:03:06"
+  },
+  {
+    "title": "Doubt Resolution.mp4",
+    "durationSeconds": 66.133,
+    "durationFormatted": "00:01:06"
+  },
+  {
+    "title": "Mitra's Welcome Video.mp4",
+    "durationSeconds": 52.9,
+    "durationFormatted": "00:00:52"
+  },
+  {
+    "title": "Permutations_and_Combinations_01_:_Permutations_and_Combinations.mp4",
+    "durationSeconds": 11917,
+    "durationFormatted": "03:18:37"
+  },
+  {
+    "title": "Permutations_and_Combinations_02_:_Permutations_and_Combinations.mp4",
+    "durationSeconds": 10743,
+    "durationFormatted": "02:59:03"
+  },
+  {
+    "title": "Permutations_and_Combinations_03_:_Permutations_and_Combinations.mp4",
+    "durationSeconds": 12172,
+    "durationFormatted": "03:22:52"
+  },
+  {
+    "title": "Permutations_and_Combinations_04_:_Permutations_and_Combinations.mp4",
+    "durationSeconds": 9697,
+    "durationFormatted": "02:41:37"
+  },
+  {
+    "title": "Permutation & Combinations : DPP 01 Discussion.mp4",
+    "durationSeconds": 2769,
+    "durationFormatted": "00:46:09"
+  },
+  {
+    "title": "Probability 01 : Probability (Part 01).mp4",
+    "durationSeconds": 12229,
+    "durationFormatted": "03:23:49"
+  },
+  {
+    "title": "Probability 02 : Probability (Part 02).mp4",
+    "durationSeconds": 10927,
+    "durationFormatted": "03:02:07"
+  },
+  {
+    "title": "Probability 03 : Probability (Part 03).mp4",
+    "durationSeconds": 11377,
+    "durationFormatted": "03:09:37"
+  },
+  {
+    "title": "Probability 04 : Probability (Part 04).mp4",
+    "durationSeconds": 9614,
+    "durationFormatted": "02:40:14"
+  },
+  {
+    "title": "Probability 05 : Probability (Part 05).mp4",
+    "durationSeconds": 10601,
+    "durationFormatted": "02:56:41"
+  },
+  {
+    "title": "Probability 06 : Probability (Part 06).mp4",
+    "durationSeconds": 9992,
+    "durationFormatted": "02:46:32"
+  },
+  {
+    "title": "Probability : DPP 01 Discussion.mp4",
+    "durationSeconds": 5273,
+    "durationFormatted": "01:27:53"
+  },
+  {
+    "title": "Statistics 1 01 : Statistics 1 (Part 01).mp4",
+    "durationSeconds": 10102,
+    "durationFormatted": "02:48:22"
+  },
+  {
+    "title": "Statistics 1 02 : Statistics 1 (Part 02) || Extra Class.mp4",
+    "durationSeconds": 12160,
+    "durationFormatted": "03:22:40"
+  },
+  {
+    "title": "Statistics_1_03_:_Statistics_1_Part_03_||_Extra_Class_||_Reschedule.mp4",
+    "durationSeconds": 14019,
+    "durationFormatted": "03:53:39"
+  },
+  {
+    "title": "Statistics 1 04 : Statistics 1 (Part 04).mp4",
+    "durationSeconds": 9350,
+    "durationFormatted": "02:35:50"
+  },
+  {
+    "title": "Statistics 1 05 : Statistics 1 (Part 05).mp4",
+    "durationSeconds": 8797,
+    "durationFormatted": "02:26:37"
+  },
+  {
+    "title": "Statistics 1 06 : Statistics 1 (Part 06).mp4",
+    "durationSeconds": 10006,
+    "durationFormatted": "02:46:46"
+  },
+  {
+    "title": "Statistics 1 07 : Statistics 1 (Part 07).mp4",
+    "durationSeconds": 10130,
+    "durationFormatted": "02:48:50"
+  },
+  {
+    "title": "Statistics 1 08 : Statistics 1 (Part 08).mp4",
+    "durationSeconds": 10033,
+    "durationFormatted": "02:47:13"
+  },
+  {
+    "title": "Statistics 1 09 : Statistics 1 (Part 09).mp4",
+    "durationSeconds": 9599,
+    "durationFormatted": "02:39:59"
+  },
+  {
+    "title": "Statistics 1 : DPP 01 Discussion.mp4",
+    "durationSeconds": 4697,
+    "durationFormatted": "01:18:17"
+  },
+  {
+    "title": "Statistics : DPP 02 Discussion.mp4",
+    "durationSeconds": 6018,
+    "durationFormatted": "01:40:18"
+  },
+  {
+    "title": "Statistics 2 01 : Statistics 2 (Part 01).mp4",
+    "durationSeconds": 9303,
+    "durationFormatted": "02:35:03"
+  },
+  {
+    "title": "Statistics 2 02 : Statistics 2 (Part 02).mp4",
+    "durationSeconds": 10094,
+    "durationFormatted": "02:48:14"
+  },
+  {
+    "title": "Statistics 2 03 : Statistics 2 (Part 03).mp4",
+    "durationSeconds": 9637,
+    "durationFormatted": "02:40:37"
+  },
+  {
+    "title": "Statistics 2 04 : Statistics 2 (Part 04) || Rescheduled.mp4",
+    "durationSeconds": 7776,
+    "durationFormatted": "02:09:36"
+  },
+  {
+    "title": "Statistics 2 05 : Statistics 2 (Part 05).mp4",
+    "durationSeconds": 9179,
+    "durationFormatted": "02:32:59"
+  },
+  {
+    "title": "Statistics 2 06 : Statistics 2 (Part 06) || Rescheduled.mp4",
+    "durationSeconds": 4974,
+    "durationFormatted": "01:22:54"
+  },
+  {
+    "title": "Statistics 2 07 : Statistics 2 (Part 07).mp4",
+    "durationSeconds": 12149,
+    "durationFormatted": "03:22:29"
+  },
+  {
+    "title": "Statistics 2 08 : Statistics 2 (Part 08).mp4",
+    "durationSeconds": 5617,
+    "durationFormatted": "01:33:37"
+  },
+  {
+    "title": "Statistics 2 : DPP 01 Discussion.mp4",
+    "durationSeconds": 4754,
+    "durationFormatted": "01:19:14"
+  },
+  {
+    "title": "Statistics 2 : DPP 02 Discussion.mp4",
+    "durationSeconds": 4525,
+    "durationFormatted": "01:15:25"
+  },
+  {
+    "title": "Language Processor and Tokens (One Shot).mp4",
+    "durationSeconds": 7555,
+    "durationFormatted": "02:05:55"
+  },
+  {
+    "title": "Data_Types_and_Operator_01_:_Data_Types_and_Operator_Part_01.mp4",
+    "durationSeconds": 5078,
+    "durationFormatted": "01:24:38"
+  },
+  {
+    "title": "Data_Types_and_Operator_02_:_Data_Types_and_Operator_Part_02.mp4",
+    "durationSeconds": 7783,
+    "durationFormatted": "02:09:43"
+  },
+  {
+    "title": "Data_Types_and_Operator_03_:_Data_Types_and_Operator_Part_03.mp4",
+    "durationSeconds": 7330,
+    "durationFormatted": "02:02:10"
+  },
+  {
+    "title": "Data_Types_and_Operator_04_:_Data_Types_and_Operator_Part_04.mp4",
+    "durationSeconds": 6173,
+    "durationFormatted": "01:42:53"
+  },
+  {
+    "title": "Data_Types_and_Operator_05_:_Data_Types_and_Operator_Part_05.mp4",
+    "durationSeconds": 6678,
+    "durationFormatted": "01:51:18"
+  },
+  {
+    "title": "Data Types and Operator : DPP 01 Discussion.mp4",
+    "durationSeconds": 1678,
+    "durationFormatted": "00:27:58"
+  },
+  {
+    "title": "Data Types and Operator : DPP 02 Discussion.mp4",
+    "durationSeconds": 1407,
+    "durationFormatted": "00:23:27"
+  },
+  {
+    "title": "Data Types and Operator : DPP 03 Discussion.mp4",
+    "durationSeconds": 900,
+    "durationFormatted": "00:15:00"
+  },
+  {
+    "title": "Control Flow Statement 01 : Control Flow Statement (Part 01).mp4",
+    "durationSeconds": 7252,
+    "durationFormatted": "02:00:52"
+  },
+  {
+    "title": "Control Flow Statement 02 : Control Flow Statement (Part 02).mp4",
+    "durationSeconds": 6839,
+    "durationFormatted": "01:53:59"
+  },
+  {
+    "title": "Control Flow Statement 03 : Control Flow Statement (Part 03).mp4",
+    "durationSeconds": 7221,
+    "durationFormatted": "02:00:21"
+  },
+  {
+    "title": "Control Flow Statement 04 : Control Flow Statement (Part 04).mp4",
+    "durationSeconds": 6844,
+    "durationFormatted": "01:54:04"
+  },
+  {
+    "title": "Control Flow Statement 05 : Control Flow Statement (Part 05).mp4",
+    "durationSeconds": 6801,
+    "durationFormatted": "01:53:21"
+  },
+  {
+    "title": "Control Flow Statement : DPP 01 Discussion.mp4",
+    "durationSeconds": 1211,
+    "durationFormatted": "00:20:11"
+  },
+  {
+    "title": "Control Flow Statement : DPP 02 Discussion.mp4",
+    "durationSeconds": 1922,
+    "durationFormatted": "00:32:02"
+  },
+  {
+    "title": "Function_and_Storage_Class_01_:_Function_and_Storage_Class_Part.mp4",
+    "durationSeconds": 6830,
+    "durationFormatted": "01:53:50"
+  },
+  {
+    "title": "Function_and_Storage_Class_02_:_Function_and_Storage_Class_Part.mp4",
+    "durationSeconds": 6876,
+    "durationFormatted": "01:54:36"
+  },
+  {
+    "title": "Function_and_Storage_Class_03_:_Function_and_Storage_Class_Part.mp4",
+    "durationSeconds": 6939,
+    "durationFormatted": "01:55:39"
+  },
+  {
+    "title": "Function_and_Storage_Class_04_:_Function_and_Storage_Class_Part.mp4",
+    "durationSeconds": 7010,
+    "durationFormatted": "01:56:50"
+  },
+  {
+    "title": "Function_and_Storage_Class_05_:_Function_and_Storage_Class_Part.mp4",
+    "durationSeconds": 3592,
+    "durationFormatted": "00:59:52"
+  },
+  {
+    "title": "Function and Storage Class : DPP 01 Discussion.mp4",
+    "durationSeconds": 1182,
+    "durationFormatted": "00:19:42"
+  },
+  {
+    "title": "Function and Storage Class : DPP 02 Discussion.mp4",
+    "durationSeconds": 2054,
+    "durationFormatted": "00:34:14"
+  },
+  {
+    "title": "Function and Storage Class : DPP 03 Discussion.mp4",
+    "durationSeconds": 1543,
+    "durationFormatted": "00:25:43"
+  },
+  {
+    "title": "Function and Storage Class : DPP 04 Discussion.mp4",
+    "durationSeconds": 2425,
+    "durationFormatted": "00:40:25"
+  },
+  {
+    "title": "Array and Pointer 01 : Array and Pointer (Part 01).mp4",
+    "durationSeconds": 5191,
+    "durationFormatted": "01:26:31"
+  },
+  {
+    "title": "Array and Pointer 02 : Array and Pointer (Part 02).mp4",
+    "durationSeconds": 5755,
+    "durationFormatted": "01:35:55"
+  },
+  {
+    "title": "Array and Pointer 03 : Array and Pointer (Part 03).mp4",
+    "durationSeconds": 6214,
+    "durationFormatted": "01:43:34"
+  },
+  {
+    "title": "Array and Pointer 04 : Array and Pointer (Part 04).mp4",
+    "durationSeconds": 5767,
+    "durationFormatted": "01:36:07"
+  },
+  {
+    "title": "Array and Pointer 05 : Array and Pointer (Part 05).mp4",
+    "durationSeconds": 5903,
+    "durationFormatted": "01:38:23"
+  },
+  {
+    "title": "Array and Pointer 06 : Array and Pointer (Part 06).mp4",
+    "durationSeconds": 6088,
+    "durationFormatted": "01:41:28"
+  },
+  {
+    "title": "Array and Pointer : DPP 01 Discussion.mp4",
+    "durationSeconds": 2250,
+    "durationFormatted": "00:37:30"
+  },
+  {
+    "title": "Array and Pointer : DPP 02 Discussion.mp4",
+    "durationSeconds": 568,
+    "durationFormatted": "00:09:28"
+  },
+  {
+    "title": "Array and Pointer : DPP 03 Discussion.mp4",
+    "durationSeconds": 1667,
+    "durationFormatted": "00:27:47"
+  },
+  {
+    "title": "String 01 : String (Part 01).mp4",
+    "durationSeconds": 6201,
+    "durationFormatted": "01:43:21"
+  },
+  {
+    "title": "String 02 : String (Part 02).mp4",
+    "durationSeconds": 6434,
+    "durationFormatted": "01:47:14"
+  },
+  {
+    "title": "String : DPP 01 Discussion.mp4",
+    "durationSeconds": 851,
+    "durationFormatted": "00:14:11"
+  },
+  {
+    "title": "Structure and Union (One Shot).mp4",
+    "durationSeconds": 5869,
+    "durationFormatted": "01:37:49"
+  },
+  {
+    "title": "Practice Problem (One Shot).mp4",
+    "durationSeconds": 6666,
+    "durationFormatted": "01:51:06"
+  },
+  {
+    "title": "Functions and Graphs 01 : Functions and Graphs (Part 01).mp4",
+    "durationSeconds": 8416,
+    "durationFormatted": "02:20:16"
+  },
+  {
+    "title": "Functions and Graphs 02 : Functions and Graphs (Part 02).mp4",
+    "durationSeconds": 8689,
+    "durationFormatted": "02:24:49"
+  },
+  {
+    "title": "Functions and Graphs 03 : Functions and Graphs (Part 03).mp4",
+    "durationSeconds": 8534,
+    "durationFormatted": "02:22:14"
+  },
+  {
+    "title": "Limit,_Continuity_and_differentiablity_01_:_Limit,_Continuity_and.mp4",
+    "durationSeconds": 8312,
+    "durationFormatted": "02:18:32"
+  },
+  {
+    "title": "Limit,_Continuity_and_differentiablity_02_:_Limit,_Continuity_and.mp4",
+    "durationSeconds": 8655,
+    "durationFormatted": "02:24:15"
+  },
+  {
+    "title": "Limit,_Continuity_and_differentiablity_03_:_Limit,_Continuity_and.mp4",
+    "durationSeconds": 7364,
+    "durationFormatted": "02:02:44"
+  },
+  {
+    "title": "Limit,_Continuity_and_differentiablity_04_:_Limit,_Continuity_and.mp4",
+    "durationSeconds": 9240,
+    "durationFormatted": "02:34:00"
+  },
+  {
+    "title": "Calculus and Optimization : DPP 01 Discussion.mp4",
+    "durationSeconds": 5368,
+    "durationFormatted": "01:29:28"
+  },
+  {
+    "title": "Taylor and Maclaurin series : One Shot.mp4",
+    "durationSeconds": 9010,
+    "durationFormatted": "02:30:10"
+  },
+  {
+    "title": "Derivatives_and_Their_Types_01_:_Derivatives_and_Their_Types_Part.mp4",
+    "durationSeconds": 8591,
+    "durationFormatted": "02:23:11"
+  },
+  {
+    "title": "Derivatives_and_Their_Types_02_:_Derivatives_and_Their_Types_Part.mp4",
+    "durationSeconds": 10557,
+    "durationFormatted": "02:55:57"
+  },
+  {
+    "title": "Derivatives_and_Their_Types_03_:_Derivatives_and_Their_Types_Part.mp4",
+    "durationSeconds": 8995,
+    "durationFormatted": "02:29:55"
+  },
+  {
+    "title": "Calculus and Optimization : DPP 02 Discussion.mp4",
+    "durationSeconds": 7299,
+    "durationFormatted": "02:01:39"
+  },
+  {
+    "title": "Mean Value Theorems : One Shot.mp4",
+    "durationSeconds": 8853,
+    "durationFormatted": "02:27:33"
+  },
+  {
+    "title": "Maxima and Minima 01 : Maxima and Minima (Part 01).mp4",
+    "durationSeconds": 8143,
+    "durationFormatted": "02:15:43"
+  },
+  {
+    "title": "Maxima and Minima 02 : Maxima and Minima (Part 02).mp4",
+    "durationSeconds": 9270,
+    "durationFormatted": "02:34:30"
+  },
+  {
+    "title": "Maxima and Minima 03 : Maxima and Minima (Part 03).mp4",
+    "durationSeconds": 8302,
+    "durationFormatted": "02:18:22"
+  },
+  {
+    "title": "Integration 01 : Integration (Part 01).mp4",
+    "durationSeconds": 5314,
+    "durationFormatted": "01:28:34"
+  },
+  {
+    "title": "Integration 02 : Integration (Part 02).mp4",
+    "durationSeconds": 8033,
+    "durationFormatted": "02:13:53"
+  },
+  {
+    "title": "Integration 03 : Integration (Part 03).mp4",
+    "durationSeconds": 8249,
+    "durationFormatted": "02:17:29"
+  },
+  {
+    "title": "Basics of determinants 01 : Basics of determinants (Part 01).mp4",
+    "durationSeconds": 7368,
+    "durationFormatted": "02:02:48"
+  },
+  {
+    "title": "Basics of determinants 02 : Basics of determinants (Part 02).mp4",
+    "durationSeconds": 8241,
+    "durationFormatted": "02:17:21"
+  },
+  {
+    "title": "Linear Algebra : DPP 01 Discussion.mp4",
+    "durationSeconds": 4105,
+    "durationFormatted": "01:08:25"
+  },
+  {
+    "title": "Algebra of matrices 01 : Algebra of matrices (Part 01).mp4",
+    "durationSeconds": 7938,
+    "durationFormatted": "02:12:18"
+  },
+  {
+    "title": "Algebra of matrices 02 : Algebra of matrices (Part 02).mp4",
+    "durationSeconds": 9326,
+    "durationFormatted": "02:35:26"
+  },
+  {
+    "title": "Rank of matrix 01 : Rank of matrix (Part 01).mp4",
+    "durationSeconds": 8279,
+    "durationFormatted": "02:17:59"
+  },
+  {
+    "title": "Rank of matrix 02 : Rank of matrix (Part 02).mp4",
+    "durationSeconds": 7773,
+    "durationFormatted": "02:09:33"
+  },
+  {
+    "title": "Linear Algebra : DPP 02 Discussion.mp4",
+    "durationSeconds": 5210,
+    "durationFormatted": "01:26:50"
+  },
+  {
+    "title": "System of Equations 01 : System of Equations (Part 01).mp4",
+    "durationSeconds": 11682,
+    "durationFormatted": "03:14:42"
+  },
+  {
+    "title": "System of Equations 02 : System of Equations (Part 02).mp4",
+    "durationSeconds": 8384,
+    "durationFormatted": "02:19:44"
+  },
+  {
+    "title": "Eigen Values and CHT 01 : Eigen Values and CHT (Part 01).mp4",
+    "durationSeconds": 8355,
+    "durationFormatted": "02:19:15"
+  },
+  {
+    "title": "Eigen Values and CHT 02 : Eigen Values and CHT (Part 02).mp4",
+    "durationSeconds": 7953,
+    "durationFormatted": "02:12:33"
+  },
+  {
+    "title": "Eigen Values and CHT 03 : Eigen Values and CHT (Part 03).mp4",
+    "durationSeconds": 7368,
+    "durationFormatted": "02:02:48"
+  },
+  {
+    "title": "Linear Algebra : DPP 03 Discussion.mp4",
+    "durationSeconds": 3197,
+    "durationFormatted": "00:53:17"
+  },
+  {
+    "title": "Eigen_Vectors_and_Diagonalisation_01_:_Eigen_Vectors_and_Diagonalisation.mp4",
+    "durationSeconds": 8237,
+    "durationFormatted": "02:17:17"
+  },
+  {
+    "title": "Eigen_Vectors_and_Diagonalisation_02_:_Eigen_Vectors_and_Diagonalisation.mp4",
+    "durationSeconds": 9656,
+    "durationFormatted": "02:40:56"
+  },
+  {
+    "title": "Regular Languages 01 : Regular Languages (Part 01).mp4",
+    "durationSeconds": 6855,
+    "durationFormatted": "01:54:15"
+  },
+  {
+    "title": "Regular Languages 02 : Regular Languages (Part 02).mp4",
+    "durationSeconds": 7042,
+    "durationFormatted": "01:57:22"
+  },
+  {
+    "title": "Regular Languages 03 : Regular Languages (Part 03).mp4",
+    "durationSeconds": 6644,
+    "durationFormatted": "01:50:44"
+  },
+  {
+    "title": "Regular Languages 04 : Regular Languages (Part 04).mp4",
+    "durationSeconds": 7241,
+    "durationFormatted": "02:00:41"
+  },
+  {
+    "title": "Regular Languages 05 : Regular Languages (Part 05).mp4",
+    "durationSeconds": 7165,
+    "durationFormatted": "01:59:25"
+  },
+  {
+    "title": "Regular Languages 06 : Regular Languages (Part 06).mp4",
+    "durationSeconds": 7136,
+    "durationFormatted": "01:58:56"
+  },
+  {
+    "title": "Regular Languages 07 : Regular Languages (Part 07).mp4",
+    "durationSeconds": 7096,
+    "durationFormatted": "01:58:16"
+  },
+  {
+    "title": "Regular Languages 08 : Regular Languages (Part 08).mp4",
+    "durationSeconds": 7041,
+    "durationFormatted": "01:57:21"
+  },
+  {
+    "title": "Regular Languages 09 : Regular Languages (Part 09).mp4",
+    "durationSeconds": 7184,
+    "durationFormatted": "01:59:44"
+  },
+  {
+    "title": "Regular Languages 10 : Regular Languages (Part 10).mp4",
+    "durationSeconds": 9083,
+    "durationFormatted": "02:31:23"
+  },
+  {
+    "title": "Regular Languages 11 : Regular Languages (Part 11).mp4",
+    "durationSeconds": 8853,
+    "durationFormatted": "02:27:33"
+  },
+  {
+    "title": "Regular Languages 12 : Regular Languages (Part 12).mp4",
+    "durationSeconds": 8930,
+    "durationFormatted": "02:28:50"
+  },
+  {
+    "title": "Regular Languages 13 : Regular Languages (Part 13).mp4",
+    "durationSeconds": 8906,
+    "durationFormatted": "02:28:26"
+  },
+  {
+    "title": "Regular Languages 14 : Regular Languages (Part 14).mp4",
+    "durationSeconds": 9070,
+    "durationFormatted": "02:31:10"
+  },
+  {
+    "title": "Regular Languages 15 : Regular Languages (Part 15).mp4",
+    "durationSeconds": 3637,
+    "durationFormatted": "01:00:37"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 2760,
+    "durationFormatted": "00:46:00"
+  },
+  {
+    "title": "Context free Languages 01 : Context free Languages(Part 01).mp4",
+    "durationSeconds": 9172,
+    "durationFormatted": "02:32:52"
+  },
+  {
+    "title": "Context free Languages 02 : Context free Languages(Part 02).mp4",
+    "durationSeconds": 9003,
+    "durationFormatted": "02:30:03"
+  },
+  {
+    "title": "Context free Languages 03 : Context free Languages(Part 03).mp4",
+    "durationSeconds": 9175,
+    "durationFormatted": "02:32:55"
+  },
+  {
+    "title": "Context free Languages 04 : Context free Languages(Part 04).mp4",
+    "durationSeconds": 12804,
+    "durationFormatted": "03:33:24"
+  },
+  {
+    "title": "Context free Languages 05 : Context free Languages(Part 05).mp4",
+    "durationSeconds": 12868,
+    "durationFormatted": "03:34:28"
+  },
+  {
+    "title": "Context free Languages 06 : Context free Languages(Part 06).mp4",
+    "durationSeconds": 12583,
+    "durationFormatted": "03:29:43"
+  },
+  {
+    "title": "Context free Languages 07 : Context free Languages(Part 07).mp4",
+    "durationSeconds": 12823,
+    "durationFormatted": "03:33:43"
+  },
+  {
+    "title": "Context free Languages 08 : Context free Languages(Part 08).mp4",
+    "durationSeconds": 12958,
+    "durationFormatted": "03:35:58"
+  },
+  {
+    "title": "Context free Languages 09 : Context free Languages(Part 09).mp4",
+    "durationSeconds": 9263,
+    "durationFormatted": "02:34:23"
+  },
+  {
+    "title": "Context free Languages 10 : Context free Languages(Part 10).mp4",
+    "durationSeconds": 9190,
+    "durationFormatted": "02:33:10"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 3505,
+    "durationFormatted": "00:58:25"
+  },
+  {
+    "title": "Turing Machines 01 : Turing Machines (Part 01).mp4",
+    "durationSeconds": 7901,
+    "durationFormatted": "02:11:41"
+  },
+  {
+    "title": "Turing Machines 02 : Turing Machines (Part 02).mp4",
+    "durationSeconds": 3854,
+    "durationFormatted": "01:04:14"
+  },
+  {
+    "title": "Turing Machines 03 : Turing Machines (Part 03).mp4",
+    "durationSeconds": 9010,
+    "durationFormatted": "02:30:10"
+  },
+  {
+    "title": "Turing Machines 04 : Turing Machines (Part 04).mp4",
+    "durationSeconds": 9061,
+    "durationFormatted": "02:31:01"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1872,
+    "durationFormatted": "00:31:12"
+  },
+  {
+    "title": "Basics of COA 01 : Basics and Prerequisites.mp4",
+    "durationSeconds": 7226,
+    "durationFormatted": "02:00:26"
+  },
+  {
+    "title": "Basics of COA 02 : Basics and Registers.mp4",
+    "durationSeconds": 6781,
+    "durationFormatted": "01:53:01"
+  },
+  {
+    "title": "Basics of COA 04 : Micro-operations (Part 01).mp4",
+    "durationSeconds": 7676,
+    "durationFormatted": "02:07:56"
+  },
+  {
+    "title": "Basics of COA 05 : Micro-operations (Part 02).mp4",
+    "durationSeconds": 4548,
+    "durationFormatted": "01:15:48"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1579,
+    "durationFormatted": "00:26:19"
+  },
+  {
+    "title": "Instruction and Addressing Modes 01 : Instructions (Part 01).mp4",
+    "durationSeconds": 7344,
+    "durationFormatted": "02:02:24"
+  },
+  {
+    "title": "Instruction_and_Addressing_Modes_02_:_Instructions_Part_02_||_Recorded.mp4",
+    "durationSeconds": 2897,
+    "durationFormatted": "00:48:17"
+  },
+  {
+    "title": "Instruction and Addressing Modes 03 : Instructions (Part 03).mp4",
+    "durationSeconds": 7141,
+    "durationFormatted": "01:59:01"
+  },
+  {
+    "title": "Instruction_and_Addressing_Modes_04_:_Addressing_Modes_Part_01.mp4",
+    "durationSeconds": 3856,
+    "durationFormatted": "01:04:16"
+  },
+  {
+    "title": "Instruction_and_Addressing_Modes_05_:_Addressing_Modes_Part_02.mp4",
+    "durationSeconds": 7878,
+    "durationFormatted": "02:11:18"
+  },
+  {
+    "title": "Instruction_and_Addressing_Modes_06_:_Addressing_Modes_Part_03_||.mp4",
+    "durationSeconds": 6167,
+    "durationFormatted": "01:42:47"
+  },
+  {
+    "title": "Instruction and Addressing Modes : DPP 01 Discussion.mp4",
+    "durationSeconds": 2813,
+    "durationFormatted": "00:46:53"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 967,
+    "durationFormatted": "00:16:07"
+  },
+  {
+    "title": "CPU and Control Unit 01 : CPU and Data Path.mp4",
+    "durationSeconds": 7464,
+    "durationFormatted": "02:04:24"
+  },
+  {
+    "title": "CPU and Control Unit 02 : Control Unit (Part 1).mp4",
+    "durationSeconds": 6980,
+    "durationFormatted": "01:56:20"
+  },
+  {
+    "title": "CPU and Control Unit 03 : Control Unit (Part 2).mp4",
+    "durationSeconds": 7163,
+    "durationFormatted": "01:59:23"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1726,
+    "durationFormatted": "00:28:46"
+  },
+  {
+    "title": "Floating_Point_Representation_01_:_Floating_Point_Representation.mp4",
+    "durationSeconds": 7603,
+    "durationFormatted": "02:06:43"
+  },
+  {
+    "title": "Floating_Point_Representation_02_:_IEEE_754_Floating_Point_Representation.mp4",
+    "durationSeconds": 7508,
+    "durationFormatted": "02:05:08"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1115,
+    "durationFormatted": "00:18:35"
+  },
+  {
+    "title": "IO Organization 01 : IO Interface.mp4",
+    "durationSeconds": 7158,
+    "durationFormatted": "01:59:18"
+  },
+  {
+    "title": "IO Organization 02 :  Interrupt.mp4",
+    "durationSeconds": 6992,
+    "durationFormatted": "01:56:32"
+  },
+  {
+    "title": "IO Organization 03 : DMA.mp4",
+    "durationSeconds": 6917,
+    "durationFormatted": "01:55:17"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1182,
+    "durationFormatted": "00:19:42"
+  },
+  {
+    "title": "Memory Organization 01 : Introduction.mp4",
+    "durationSeconds": 3464,
+    "durationFormatted": "00:57:44"
+  },
+  {
+    "title": "Memory Organization 02 : RAM and ROM.mp4",
+    "durationSeconds": 6261,
+    "durationFormatted": "01:44:21"
+  },
+  {
+    "title": "Memory Organization 03 : Chip Organization.mp4",
+    "durationSeconds": 6851,
+    "durationFormatted": "01:54:11"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1609,
+    "durationFormatted": "00:26:49"
+  },
+  {
+    "title": "Cache Organization 01 : Introduction || Reschedule.mp4",
+    "durationSeconds": 5310,
+    "durationFormatted": "01:28:30"
+  },
+  {
+    "title": "Cache Organization 02 : Average Memory Access Time.mp4",
+    "durationSeconds": 6905,
+    "durationFormatted": "01:55:05"
+  },
+  {
+    "title": "Cache Organization 03 : Mapping and Direct Mapping.mp4",
+    "durationSeconds": 5817,
+    "durationFormatted": "01:36:57"
+  },
+  {
+    "title": "Cache_Organization_04_:_Set_Associative_and_Fully_Associative_Mapping.mp4",
+    "durationSeconds": 7754,
+    "durationFormatted": "02:09:14"
+  },
+  {
+    "title": "Cache Organization 05 : Mapping Questions.mp4",
+    "durationSeconds": 7303,
+    "durationFormatted": "02:01:43"
+  },
+  {
+    "title": "Cache Organization 06 : Cache Block Replacement.mp4",
+    "durationSeconds": 5910,
+    "durationFormatted": "01:38:30"
+  },
+  {
+    "title": "Cache Organization 07 : Mapping Hardware.mp4",
+    "durationSeconds": 7086,
+    "durationFormatted": "01:58:06"
+  },
+  {
+    "title": "Cache Organization 08 : Types of Cache Miss.mp4",
+    "durationSeconds": 7531,
+    "durationFormatted": "02:05:31"
+  },
+  {
+    "title": "Cache Organization 09 : Array Access.mp4",
+    "durationSeconds": 7627,
+    "durationFormatted": "02:07:07"
+  },
+  {
+    "title": "Cache Organization 10 : Multilevel Cache.mp4",
+    "durationSeconds": 7521,
+    "durationFormatted": "02:05:21"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1158,
+    "durationFormatted": "00:19:18"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1949,
+    "durationFormatted": "00:32:29"
+  },
+  {
+    "title": "Disk 01 : Magnetic Disk Introduction.mp4",
+    "durationSeconds": 6878,
+    "durationFormatted": "01:54:38"
+  },
+  {
+    "title": "Disk 02 : Disk Access.mp4",
+    "durationSeconds": 5682,
+    "durationFormatted": "01:34:42"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1872,
+    "durationFormatted": "00:31:12"
+  },
+  {
+    "title": "Pipeline Processing 01 : Introduction.mp4",
+    "durationSeconds": 7011,
+    "durationFormatted": "01:56:51"
+  },
+  {
+    "title": "Pipeline Processing 02 : Synchronous Pipeline.mp4",
+    "durationSeconds": 7122,
+    "durationFormatted": "01:58:42"
+  },
+  {
+    "title": "Pipeline Processing 03 : Instruction Pipeline.mp4",
+    "durationSeconds": 8976,
+    "durationFormatted": "02:29:36"
+  },
+  {
+    "title": "Pipeline Processing 04 : Pipeline Hazard.mp4",
+    "durationSeconds": 7537,
+    "durationFormatted": "02:05:37"
+  },
+  {
+    "title": "Pipeline Processing 05 : Hazard Classification and CPI.mp4",
+    "durationSeconds": 6410,
+    "durationFormatted": "01:46:50"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 3614,
+    "durationFormatted": "01:00:14"
+  },
+  {
+    "title": "Introduction 01 : Introduction (Part 01).mp4",
+    "durationSeconds": 6169,
+    "durationFormatted": "01:42:49"
+  },
+  {
+    "title": "Introduction 02 : Introduction (Part 02).mp4",
+    "durationSeconds": 6753,
+    "durationFormatted": "01:52:33"
+  },
+  {
+    "title": "Parsers 01 : Parsers(Part 01).mp4",
+    "durationSeconds": 7395,
+    "durationFormatted": "02:03:15"
+  },
+  {
+    "title": "Parsers 02 : Parsers(Part 02).mp4",
+    "durationSeconds": 7092,
+    "durationFormatted": "01:58:12"
+  },
+  {
+    "title": "Parsers 03 : Parsers(Part 03).mp4",
+    "durationSeconds": 7332,
+    "durationFormatted": "02:02:12"
+  },
+  {
+    "title": "Parsers 04 : Parsers(Part 04).mp4",
+    "durationSeconds": 779,
+    "durationFormatted": "00:12:59"
+  },
+  {
+    "title": "Parsers 05 : Parsers(Part 05).mp4",
+    "durationSeconds": 7272,
+    "durationFormatted": "02:01:12"
+  },
+  {
+    "title": "Parsers 06 : Parsers (Part 06).mp4",
+    "durationSeconds": 7292,
+    "durationFormatted": "02:01:32"
+  },
+  {
+    "title": "Parsers 07 : Parsers (Part 07).mp4",
+    "durationSeconds": 7236,
+    "durationFormatted": "02:00:36"
+  },
+  {
+    "title": "Parsers 08 : Parsers (Part 08).mp4",
+    "durationSeconds": 3564,
+    "durationFormatted": "00:59:24"
+  },
+  {
+    "title": "Parsers 09 : Parsers (Part 09).mp4",
+    "durationSeconds": 7162,
+    "durationFormatted": "01:59:22"
+  },
+  {
+    "title": "Parsers 10 : Parsers (Part 10).mp4",
+    "durationSeconds": 5316,
+    "durationFormatted": "01:28:36"
+  },
+  {
+    "title": "Parsers 11 : Parsers (Part 11).mp4",
+    "durationSeconds": 6796,
+    "durationFormatted": "01:53:16"
+  },
+  {
+    "title": "Parsers 12 : Parsers (Part 12).mp4",
+    "durationSeconds": 7356,
+    "durationFormatted": "02:02:36"
+  },
+  {
+    "title": "Parsers 13 : Parsers (Part 13) || (Recorded).mp4",
+    "durationSeconds": 3026,
+    "durationFormatted": "00:50:26"
+  },
+  {
+    "title": "Parsers 14 : Parsers (Part 14).mp4",
+    "durationSeconds": 6672,
+    "durationFormatted": "01:51:12"
+  },
+  {
+    "title": "Parsers 15 : Parsers (Part 15).mp4",
+    "durationSeconds": 7348,
+    "durationFormatted": "02:02:28"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 2221,
+    "durationFormatted": "00:37:01"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1880,
+    "durationFormatted": "00:31:20"
+  },
+  {
+    "title": "Syntax_Directed_Translation_01_:_Syntax_Directed_TranslationPart.mp4",
+    "durationSeconds": 3090,
+    "durationFormatted": "00:51:30"
+  },
+  {
+    "title": "Syntax_Directed_Translation_02_:_Syntax_Directed_TranslationPart.mp4",
+    "durationSeconds": 2754,
+    "durationFormatted": "00:45:54"
+  },
+  {
+    "title": "Syntax_Directed_Translation_03_:_Syntax_Directed_TranslationPart.mp4",
+    "durationSeconds": 1583,
+    "durationFormatted": "00:26:23"
+  },
+  {
+    "title": "Syntax_Directed_Translation_04_:_Syntax_Directed_TranslationPart.mp4",
+    "durationSeconds": 2156,
+    "durationFormatted": "00:35:56"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1236,
+    "durationFormatted": "00:20:36"
+  },
+  {
+    "title": "Intermediate_Code_Generation_01_:_Intermediate_Code_Generation_Part.mp4",
+    "durationSeconds": 1593,
+    "durationFormatted": "00:26:33"
+  },
+  {
+    "title": "Intermediate_Code_Generation_02_:_Intermediate_Code_Generation_Part.mp4",
+    "durationSeconds": 1238,
+    "durationFormatted": "00:20:38"
+  },
+  {
+    "title": "Runtime_Environments_:_One_Shot_||_Extra_Class_||_Recorded.mp4",
+    "durationSeconds": 1862,
+    "durationFormatted": "00:31:02"
+  },
+  {
+    "title": "Code_Optimisation_01_:_Code_Optimisation_Part_01_||_Extra_Class.mp4",
+    "durationSeconds": 1582,
+    "durationFormatted": "00:26:22"
+  },
+  {
+    "title": "Code_Optimisation_02_:_Code_Optimisation_Part_02_||_Extra_Class.mp4",
+    "durationSeconds": 1201,
+    "durationFormatted": "00:20:01"
+  },
+  {
+    "title": "Code_Optimisation_03_:_Code_Optimisation_Part_03_||_Extra_Class.mp4",
+    "durationSeconds": 1132,
+    "durationFormatted": "00:18:52"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1664,
+    "durationFormatted": "00:27:44"
+  },
+  {
+    "title": "Live_Variable_Analysis_:_One_Shot_||_Extra_Class_||_Recorded.mp4",
+    "durationSeconds": 1182,
+    "durationFormatted": "00:19:42"
+  },
+  {
+    "title": "Set_Theory_and_Algebra_01_:_Set_Theory_and_Algebra_Part_01_||_Rescheduled.mp4",
+    "durationSeconds": 6916,
+    "durationFormatted": "01:55:16"
+  },
+  {
+    "title": "Set_Theory_and_Algebra_02_:_Set_Theory_and_Algebra_Part_02_||_Reschedule.mp4",
+    "durationSeconds": 6636,
+    "durationFormatted": "01:50:36"
+  },
+  {
+    "title": "Set Theory and Algebra 03 : Set Theory and Algebra (Part 03).mp4",
+    "durationSeconds": 7006,
+    "durationFormatted": "01:56:46"
+  },
+  {
+    "title": "Set Theory and Algebra 04 : Set Theory and Algebra (Part 04).mp4",
+    "durationSeconds": 4424,
+    "durationFormatted": "01:13:44"
+  },
+  {
+    "title": "Set Theory and Algebra 05 : Set Theory and Algebra (Part 05).mp4",
+    "durationSeconds": 7316,
+    "durationFormatted": "02:01:56"
+  },
+  {
+    "title": "Set Theory and Algebra 06 : Set Theory and Algebra (Part 06).mp4",
+    "durationSeconds": 7868,
+    "durationFormatted": "02:11:08"
+  },
+  {
+    "title": "Set Theory and Algebra 07 : Set Theory and Algebra (Part 07).mp4",
+    "durationSeconds": 9360,
+    "durationFormatted": "02:36:00"
+  },
+  {
+    "title": "Set Theory and Algebra 08 : Set Theory and Algebra (Part 08).mp4",
+    "durationSeconds": 6632,
+    "durationFormatted": "01:50:32"
+  },
+  {
+    "title": "Set Theory and Algebra 09 : Set Theory and Algebra (Part 09).mp4",
+    "durationSeconds": 6674,
+    "durationFormatted": "01:51:14"
+  },
+  {
+    "title": "Set Theory and Algebra 10 : Set Theory and Algebra (Part 10).mp4",
+    "durationSeconds": 10400,
+    "durationFormatted": "02:53:20"
+  },
+  {
+    "title": "Set Theory and Algebra 11 : Set Theory and Algebra (Part 11).mp4",
+    "durationSeconds": 6284,
+    "durationFormatted": "01:44:44"
+  },
+  {
+    "title": "Set Theory and Algebra 12 : Set Theory and Algebra (Part 12).mp4",
+    "durationSeconds": 5904,
+    "durationFormatted": "01:38:24"
+  },
+  {
+    "title": "Set Theory and Algebra 13 : Set Theory and Algebra (Part 13).mp4",
+    "durationSeconds": 9471,
+    "durationFormatted": "02:37:51"
+  },
+  {
+    "title": "Set Theory and Algebra 14 : Set Theory and Algebra (Part 14).mp4",
+    "durationSeconds": 11096,
+    "durationFormatted": "03:04:56"
+  },
+  {
+    "title": "Set Theory and Algebra 15 : Set Theory and Algebra (Part 15).mp4",
+    "durationSeconds": 4508,
+    "durationFormatted": "01:15:08"
+  },
+  {
+    "title": "Set Theory and Algebra 16 : Set Theory and Algebra (Part 16).mp4",
+    "durationSeconds": 8240,
+    "durationFormatted": "02:17:20"
+  },
+  {
+    "title": "Set Theory and Algebra 17 : Set Theory and Algebra (Part 17).mp4",
+    "durationSeconds": 7322,
+    "durationFormatted": "02:02:02"
+  },
+  {
+    "title": "Set Theory and Algebra 18 : Set Theory and Algebra (Part 18).mp4",
+    "durationSeconds": 5316,
+    "durationFormatted": "01:28:36"
+  },
+  {
+    "title": "Set Theory and Algebra 19 : Set Theory and Algebra (Part 19).mp4",
+    "durationSeconds": 8660,
+    "durationFormatted": "02:24:20"
+  },
+  {
+    "title": "Set Theory and Algebra 20 : Set Theory and Algebra (Part 20).mp4",
+    "durationSeconds": 6184,
+    "durationFormatted": "01:43:04"
+  },
+  {
+    "title": "Set Theory and Algebra 21 : Set Theory and Algebra (Part 21).mp4",
+    "durationSeconds": 7240,
+    "durationFormatted": "02:00:40"
+  },
+  {
+    "title": "Set_Theory_and_Algebra_22_:_Set_Theory_and_Algebra_Part_22_||_Rescheduled.mp4",
+    "durationSeconds": 6792,
+    "durationFormatted": "01:53:12"
+  },
+  {
+    "title": "Set Theory and Algebra 23 : Set Theory and Algebra (Part 23).mp4",
+    "durationSeconds": 7592,
+    "durationFormatted": "02:06:32"
+  },
+  {
+    "title": "Set Theory and Algebra 24 : Set Theory and Algebra (Part 24).mp4",
+    "durationSeconds": 7676,
+    "durationFormatted": "02:07:56"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 2386,
+    "durationFormatted": "00:39:46"
+  },
+  {
+    "title": "Set Theory and Algebra : DPP 02 Discussion.mp4",
+    "durationSeconds": 1293,
+    "durationFormatted": "00:21:33"
+  },
+  {
+    "title": "Set Theory and Algebra : DPP 03 Discussion.mp4",
+    "durationSeconds": 2862,
+    "durationFormatted": "00:47:42"
+  },
+  {
+    "title": "Set Theory and Algebra : DPP 04 Discussion.mp4",
+    "durationSeconds": 2888,
+    "durationFormatted": "00:48:08"
+  },
+  {
+    "title": "Set Theory and Algebra : DPP 05 Discussion.mp4",
+    "durationSeconds": 1618,
+    "durationFormatted": "00:26:58"
+  },
+  {
+    "title": "Set Theory and Algebra : DPP 06 Discussion.mp4",
+    "durationSeconds": 1019,
+    "durationFormatted": "00:16:59"
+  },
+  {
+    "title": "Graph Theory  01 : Graph Theory  (Part 01).mp4",
+    "durationSeconds": 6272,
+    "durationFormatted": "01:44:32"
+  },
+  {
+    "title": "Graph Theory 02 : Graph Theory (Part 02).mp4",
+    "durationSeconds": 5990,
+    "durationFormatted": "01:39:50"
+  },
+  {
+    "title": "Graph_Theory_03_:_Graph_Theory_Part_03_||_Recorded_||_Rescheduled.mp4",
+    "durationSeconds": 8573,
+    "durationFormatted": "02:22:53"
+  },
+  {
+    "title": "Graph Theory 04 : Graph Theory (Part 04).mp4",
+    "durationSeconds": 7664,
+    "durationFormatted": "02:07:44"
+  },
+  {
+    "title": "Graph Theory 05 : Graph Theory (Part 05).mp4",
+    "durationSeconds": 6776,
+    "durationFormatted": "01:52:56"
+  },
+  {
+    "title": "Graph Theory 06 : Graph Theory (Part 06).mp4",
+    "durationSeconds": 7048,
+    "durationFormatted": "01:57:28"
+  },
+  {
+    "title": "Graph Theory 07 : Graph Theory (Part 07).mp4",
+    "durationSeconds": 4832,
+    "durationFormatted": "01:20:32"
+  },
+  {
+    "title": "Graph Theory 08 : Graph Theory (Part 08).mp4",
+    "durationSeconds": 7056,
+    "durationFormatted": "01:57:36"
+  },
+  {
+    "title": "Graph Theory 09 : Graph Theory (Part 09).mp4",
+    "durationSeconds": 6728,
+    "durationFormatted": "01:52:08"
+  },
+  {
+    "title": "Graph Theory 10 : Graph Theory (Part 10).mp4",
+    "durationSeconds": 7914,
+    "durationFormatted": "02:11:54"
+  },
+  {
+    "title": "Graph Theory 11 : Graph Theory (Part 11).mp4",
+    "durationSeconds": 7884,
+    "durationFormatted": "02:11:24"
+  },
+  {
+    "title": "Graph Theory 12 : Graph Theory (Part 12).mp4",
+    "durationSeconds": 6260,
+    "durationFormatted": "01:44:20"
+  },
+  {
+    "title": "Graph Theory : DPP 01 Discussion.mp4",
+    "durationSeconds": 3095,
+    "durationFormatted": "00:51:35"
+  },
+  {
+    "title": "Graph Theory : DPP 02 Discussion.mp4",
+    "durationSeconds": 3165,
+    "durationFormatted": "00:52:45"
+  },
+  {
+    "title": "Graph Theory : DPP 03 Discussion.mp4",
+    "durationSeconds": 699,
+    "durationFormatted": "00:11:39"
+  },
+  {
+    "title": "Mathematical_Logic_01_:_Mathematical_Logic_Part_01_||_Rescheduled.mp4",
+    "durationSeconds": 6272,
+    "durationFormatted": "01:44:32"
+  },
+  {
+    "title": "Mathematical Logic 02 : Mathematical Logic (Part 02).mp4",
+    "durationSeconds": 5092,
+    "durationFormatted": "01:24:52"
+  },
+  {
+    "title": "Mathematical Logic 03 : Mathematical Logic (Part 03).mp4",
+    "durationSeconds": 7492,
+    "durationFormatted": "02:04:52"
+  },
+  {
+    "title": "Mathematical Logic 04 : Mathematical Logic (Part 04).mp4",
+    "durationSeconds": 6832,
+    "durationFormatted": "01:53:52"
+  },
+  {
+    "title": "Mathematical Logic 05 : Mathematical Logic (Part 05).mp4",
+    "durationSeconds": 7696,
+    "durationFormatted": "02:08:16"
+  },
+  {
+    "title": "Mathematical_Logic_06_:_Mathematical_Logic_Part_06_||_Extra_Class.mp4",
+    "durationSeconds": 5328,
+    "durationFormatted": "01:28:48"
+  },
+  {
+    "title": "Mathematical Logic 07 : Mathematical Logic (Part 7).mp4",
+    "durationSeconds": 7076,
+    "durationFormatted": "01:57:56"
+  },
+  {
+    "title": "Mathematical Logic : DPP 01 Discussion.mp4",
+    "durationSeconds": 1964,
+    "durationFormatted": "00:32:44"
+  },
+  {
+    "title": "Array 01 : Array (Part 01).mp4",
+    "durationSeconds": 7216,
+    "durationFormatted": "02:00:16"
+  },
+  {
+    "title": "Array 02 : Array (Part 02).mp4",
+    "durationSeconds": 7265,
+    "durationFormatted": "02:01:05"
+  },
+  {
+    "title": "Array 03 : Array (Part 03).mp4",
+    "durationSeconds": 5540,
+    "durationFormatted": "01:32:20"
+  },
+  {
+    "title": "Array 04 : Array (Part 04) || Reschedule.mp4",
+    "durationSeconds": 3840,
+    "durationFormatted": "01:04:00"
+  },
+  {
+    "title": "Array : DPP 01 Discussion.mp4",
+    "durationSeconds": 1317,
+    "durationFormatted": "00:21:57"
+  },
+  {
+    "title": "Stack 01 : Stack (Part 01).mp4",
+    "durationSeconds": 7343,
+    "durationFormatted": "02:02:23"
+  },
+  {
+    "title": "Stack 02 : Stack (Part 02).mp4",
+    "durationSeconds": 6922,
+    "durationFormatted": "01:55:22"
+  },
+  {
+    "title": "Stack 03 : Stack (Part 03).mp4",
+    "durationSeconds": 7416,
+    "durationFormatted": "02:03:36"
+  },
+  {
+    "title": "Stack 04 : Stack (Part 04).mp4",
+    "durationSeconds": 7002,
+    "durationFormatted": "01:56:42"
+  },
+  {
+    "title": "Stack and Queue : DPP 01 Discussion.mp4",
+    "durationSeconds": 1756,
+    "durationFormatted": "00:29:16"
+  },
+  {
+    "title": "Queue 01 : Queue (Part 01).mp4",
+    "durationSeconds": 7407,
+    "durationFormatted": "02:03:27"
+  },
+  {
+    "title": "Queue 02 : Queue (Part 02).mp4",
+    "durationSeconds": 7893,
+    "durationFormatted": "02:11:33"
+  },
+  {
+    "title": "Tree 01 : Tree (Part 01).mp4",
+    "durationSeconds": 7856,
+    "durationFormatted": "02:10:56"
+  },
+  {
+    "title": "Tree 02 : Tree (Part 02).mp4",
+    "durationSeconds": 7330,
+    "durationFormatted": "02:02:10"
+  },
+  {
+    "title": "Tree 03 : Tree (Part 03).mp4",
+    "durationSeconds": 6979,
+    "durationFormatted": "01:56:19"
+  },
+  {
+    "title": "Tree 04 : Tree (Part 04).mp4",
+    "durationSeconds": 7733,
+    "durationFormatted": "02:08:53"
+  },
+  {
+    "title": "Tree 05 : Tree (Part 05) || Extra Class.mp4",
+    "durationSeconds": 8242,
+    "durationFormatted": "02:17:22"
+  },
+  {
+    "title": "Tree 06 : Tree (Part 06).mp4",
+    "durationSeconds": 6354,
+    "durationFormatted": "01:45:54"
+  },
+  {
+    "title": "Tree 07 : Tree (Part 07).mp4",
+    "durationSeconds": 6815,
+    "durationFormatted": "01:53:35"
+  },
+  {
+    "title": "Tree 08 : Tree (Part 08).mp4",
+    "durationSeconds": 6082,
+    "durationFormatted": "01:41:22"
+  },
+  {
+    "title": "Tree 09 : Tree (Part 09).mp4",
+    "durationSeconds": 6431,
+    "durationFormatted": "01:47:11"
+  },
+  {
+    "title": "Tree : DPP 01 Discussion.mp4",
+    "durationSeconds": 1221,
+    "durationFormatted": "00:20:21"
+  },
+  {
+    "title": "Linked list 01 : Linked list (Part 01).mp4",
+    "durationSeconds": 6573,
+    "durationFormatted": "01:49:33"
+  },
+  {
+    "title": "Linked list 02 : Linked list (Part 02).mp4",
+    "durationSeconds": 6616,
+    "durationFormatted": "01:50:16"
+  },
+  {
+    "title": "Linked list 03 : Linked list (Part 03).mp4",
+    "durationSeconds": 6671,
+    "durationFormatted": "01:51:11"
+  },
+  {
+    "title": "Linked list 04 : Linked list (Part 04).mp4",
+    "durationSeconds": 6213,
+    "durationFormatted": "01:43:33"
+  },
+  {
+    "title": "Linked list 05 : Linked list (Part 05).mp4",
+    "durationSeconds": 6013,
+    "durationFormatted": "01:40:13"
+  },
+  {
+    "title": "Graph and Hashing 01 : Graph and Hashing (Part 01).mp4",
+    "durationSeconds": 6883,
+    "durationFormatted": "01:54:43"
+  },
+  {
+    "title": "Graph_and_Hashing_02_:_Graph_and_Hashing_Part_02_||_Extra_Class.mp4",
+    "durationSeconds": 12623,
+    "durationFormatted": "03:30:23"
+  },
+  {
+    "title": "Graph and Hashing : DPP 01 Discussion.mp4",
+    "durationSeconds": 1519,
+    "durationFormatted": "00:25:19"
+  },
+  {
+    "title": "Basics of OS || ONE SHOT.mp4",
+    "durationSeconds": 7140,
+    "durationFormatted": "01:59:00"
+  },
+  {
+    "title": "Process Management 01 : Process and Process Control Block.mp4",
+    "durationSeconds": 7690,
+    "durationFormatted": "02:08:10"
+  },
+  {
+    "title": "Process Management 02 : Process State Transition.mp4",
+    "durationSeconds": 6536,
+    "durationFormatted": "01:48:56"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 1333,
+    "durationFormatted": "00:22:13"
+  },
+  {
+    "title": "CPU Scheduling 01 : FCFS, SJF Algorithm.mp4",
+    "durationSeconds": 7076,
+    "durationFormatted": "01:57:56"
+  },
+  {
+    "title": "CPU Scheduling 02 : SRTF, HRRN, LJF, LRTF Algorithm.mp4",
+    "durationSeconds": 2260,
+    "durationFormatted": "00:37:40"
+  },
+  {
+    "title": "CPU Scheduling 03 : LJF, LRTF Algorithms.mp4",
+    "durationSeconds": 7132,
+    "durationFormatted": "01:58:52"
+  },
+  {
+    "title": "CPU Scheduling 04 : HRRN, Priority Based Algorithm.mp4",
+    "durationSeconds": 6920,
+    "durationFormatted": "01:55:20"
+  },
+  {
+    "title": "CPU Scheduling 05 : Round Robin, Multilevel Queue Scheduling.mp4",
+    "durationSeconds": 5996,
+    "durationFormatted": "01:39:56"
+  },
+  {
+    "title": "CPU Scheduling 06 : CPU Scheduling Questions.mp4",
+    "durationSeconds": 4068,
+    "durationFormatted": "01:07:48"
+  },
+  {
+    "title": "CPU Scheduling : DPP 01 Discussion.mp4",
+    "durationSeconds": 4072,
+    "durationFormatted": "01:07:52"
+  },
+  {
+    "title": "Multithreading || (One Shot).mp4",
+    "durationSeconds": 6744,
+    "durationFormatted": "01:52:24"
+  },
+  {
+    "title": "Process Synchronization 01 : Race Condition.mp4",
+    "durationSeconds": 7072,
+    "durationFormatted": "01:57:52"
+  },
+  {
+    "title": "Process_Synchronization_02_:_Critical_Section_and_It's_Solution.mp4",
+    "durationSeconds": 6308,
+    "durationFormatted": "01:45:08"
+  },
+  {
+    "title": "Process Synchronization 03 : 2 Process Solution.mp4",
+    "durationSeconds": 5852,
+    "durationFormatted": "01:37:32"
+  },
+  {
+    "title": "Process Synchronization 04 : Hardware Solution.mp4",
+    "durationSeconds": 6324,
+    "durationFormatted": "01:45:24"
+  },
+  {
+    "title": "Process Synchronization 05 : Semaphore || Recorded.mp4",
+    "durationSeconds": 6417,
+    "durationFormatted": "01:46:57"
+  },
+  {
+    "title": "Process Synchronization 06 : Questions on Semaphore.mp4",
+    "durationSeconds": 7348,
+    "durationFormatted": "02:02:28"
+  },
+  {
+    "title": "Process_Synchronization_07_:_Classical_Synchronization_Problems.mp4",
+    "durationSeconds": 6870,
+    "durationFormatted": "01:54:30"
+  },
+  {
+    "title": "Process Synchronization : DPP 01 Discussion.mp4",
+    "durationSeconds": 3492,
+    "durationFormatted": "00:58:12"
+  },
+  {
+    "title": "Analysis_of_Algorithms_01_:_Analysis_of_Algorithms_Part_01_||_Class.mp4",
+    "durationSeconds": 7814,
+    "durationFormatted": "02:10:14"
+  },
+  {
+    "title": "Analysis of Algorithms 02 : Analysis of Algorithms (Part 02).mp4",
+    "durationSeconds": 7205,
+    "durationFormatted": "02:00:05"
+  },
+  {
+    "title": "Analysis of Algorithms 03 : Analysis of Algorithms (Part 03).mp4",
+    "durationSeconds": 8760,
+    "durationFormatted": "02:26:00"
+  },
+  {
+    "title": "Analysis of Algorithms 04 : Analysis of Algorithms (Part 04).mp4",
+    "durationSeconds": 8542,
+    "durationFormatted": "02:22:22"
+  },
+  {
+    "title": "Analysis of Algorithms 05 : Analysis of Algorithms (Part 05).mp4",
+    "durationSeconds": 8915,
+    "durationFormatted": "02:28:35"
+  },
+  {
+    "title": "Analysis of Algorithms 06 : Analysis of Algorithms (Part 06).mp4",
+    "durationSeconds": 8792,
+    "durationFormatted": "02:26:32"
+  },
+  {
+    "title": "Analysis of Algorithms 07 : Analysis of Algorithms (Part 07).mp4",
+    "durationSeconds": 8142,
+    "durationFormatted": "02:15:42"
+  },
+  {
+    "title": "Analysis of Algorithms 08 : Analysis of Algorithms (Part 08).mp4",
+    "durationSeconds": 7649,
+    "durationFormatted": "02:07:29"
+  },
+  {
+    "title": "Analysis of Algorithms 09 : Analysis of Algorithms (Part 09).mp4",
+    "durationSeconds": 7980,
+    "durationFormatted": "02:13:00"
+  },
+  {
+    "title": "Analysis of Algorithms 10 : Analysis of Algorithms (Part 10).mp4",
+    "durationSeconds": 7808,
+    "durationFormatted": "02:10:08"
+  },
+  {
+    "title": "Analysis_of_Algorithms_11_:_Analysis_of_Algorithms_Part_11_||_Rescheduled.mp4",
+    "durationSeconds": 8683,
+    "durationFormatted": "02:24:43"
+  },
+  {
+    "title": "Analysis of Algorithms 12 : Analysis of Algorithms (Part 12).mp4",
+    "durationSeconds": 8227,
+    "durationFormatted": "02:17:07"
+  },
+  {
+    "title": "Analysis of Algorithms : DPP 01 Discussion.mp4",
+    "durationSeconds": 2917,
+    "durationFormatted": "00:48:37"
+  },
+  {
+    "title": "Analysis of Algorithms : DPP 02 Discussion.mp4",
+    "durationSeconds": 2448,
+    "durationFormatted": "00:40:48"
+  },
+  {
+    "title": "Sorting Algorithms 01 : Sorting Algorithms (Part 01).mp4",
+    "durationSeconds": 7427,
+    "durationFormatted": "02:03:47"
+  },
+  {
+    "title": "Sorting Algorithms 02 : Sorting Algorithms (Part 02).mp4",
+    "durationSeconds": 8349,
+    "durationFormatted": "02:19:09"
+  },
+  {
+    "title": "Sorting Algorithms 03 : Sorting Algorithms (Part 03).mp4",
+    "durationSeconds": 8155,
+    "durationFormatted": "02:15:55"
+  },
+  {
+    "title": "Sorting Algorithms : DPP 01 Discussion.mp4",
+    "durationSeconds": 3886,
+    "durationFormatted": "01:04:46"
+  },
+  {
+    "title": "Divide and Conquer 01 : Divide and Conquer (Part 01).mp4",
+    "durationSeconds": 7727,
+    "durationFormatted": "02:08:47"
+  },
+  {
+    "title": "Divide and Conquer 02 : Divide and Conquer (Part 02).mp4",
+    "durationSeconds": 9522,
+    "durationFormatted": "02:38:42"
+  },
+  {
+    "title": "Divide and Conquer 03 : Divide and Conquer (Part 03).mp4",
+    "durationSeconds": 8671,
+    "durationFormatted": "02:24:31"
+  },
+  {
+    "title": "Divide and Conquer 04 : Divide and Conquer (Part 04).mp4",
+    "durationSeconds": 7797,
+    "durationFormatted": "02:09:57"
+  },
+  {
+    "title": "Divide and Conquer 05 : Divide and Conquer (Part 05).mp4",
+    "durationSeconds": 8332,
+    "durationFormatted": "02:18:52"
+  },
+  {
+    "title": "Divide and Conquer 06 : Divide and Conquer (Part 06).mp4",
+    "durationSeconds": 7732,
+    "durationFormatted": "02:08:52"
+  },
+  {
+    "title": "Divide_and_Conquer_07_:_Divide_and_Conquer_Part_07_||_Rescheduled.mp4",
+    "durationSeconds": 9510,
+    "durationFormatted": "02:38:30"
+  },
+  {
+    "title": "Divide and Conquer 08 : Divide and Conquer (Part 08).mp4",
+    "durationSeconds": 7831,
+    "durationFormatted": "02:10:31"
+  },
+  {
+    "title": "Divide and Conquer : DPP 01 Discussion.mp4",
+    "durationSeconds": 2673,
+    "durationFormatted": "00:44:33"
+  },
+  {
+    "title": "Greedy Method 01 : Greedy Method (Part 01).mp4",
+    "durationSeconds": 8206,
+    "durationFormatted": "02:16:46"
+  },
+  {
+    "title": "Greedy Method 02 : Greedy Method (Part 02).mp4",
+    "durationSeconds": 8081,
+    "durationFormatted": "02:14:41"
+  },
+  {
+    "title": "Greedy Method 03 : Greedy Method (Part 03).mp4",
+    "durationSeconds": 7684,
+    "durationFormatted": "02:08:04"
+  },
+  {
+    "title": "Greedy Method 04 : Greedy Method (Part 04).mp4",
+    "durationSeconds": 7769,
+    "durationFormatted": "02:09:29"
+  },
+  {
+    "title": "Greedy Method 05 : Greedy Method (Part 05).mp4",
+    "durationSeconds": 7823,
+    "durationFormatted": "02:10:23"
+  },
+  {
+    "title": "Greedy Method 06 : Greedy Method (Part 06).mp4",
+    "durationSeconds": 7646,
+    "durationFormatted": "02:07:26"
+  },
+  {
+    "title": "Greedy Method 07 : Greedy Method (Part 07).mp4",
+    "durationSeconds": 8503,
+    "durationFormatted": "02:21:43"
+  },
+  {
+    "title": "Greedy Method  DPP 01 : Discussion.mp4",
+    "durationSeconds": 3391,
+    "durationFormatted": "00:56:31"
+  },
+  {
+    "title": "Dynamic_Programming_DP_01_:_Dynamic_Programming_DP_Part_01.mp4",
+    "durationSeconds": 7693,
+    "durationFormatted": "02:08:13"
+  },
+  {
+    "title": "Dynamic_Programming_DP_02_:_Dynamic_Programming_DP_Part_02.mp4",
+    "durationSeconds": 7967,
+    "durationFormatted": "02:12:47"
+  },
+  {
+    "title": "Dynamic_Programming_DP_03_:_Dynamic_Programming_DP_Part_03.mp4",
+    "durationSeconds": 8875,
+    "durationFormatted": "02:27:55"
+  },
+  {
+    "title": "Dynamic_Programming_DP_04_:_Dynamic_Programming_DP_Part_04.mp4",
+    "durationSeconds": 7762,
+    "durationFormatted": "02:09:22"
+  },
+  {
+    "title": "Dynamic_Programming_DP_05_:_Dynamic_Programming_DP_Part_05.mp4",
+    "durationSeconds": 8070,
+    "durationFormatted": "02:14:30"
+  },
+  {
+    "title": "Dynamic_Programming_DP_06_:_Dynamic_Programming_DP_Part_06.mp4",
+    "durationSeconds": 7856,
+    "durationFormatted": "02:10:56"
+  },
+  {
+    "title": "Dynamic_Programming_DP_07_:_Dynamic_Programming_DP_Part_07.mp4",
+    "durationSeconds": 7824,
+    "durationFormatted": "02:10:24"
+  },
+  {
+    "title": "Dynamic_Programming_DP_08_:_Dynamic_Programming_DP_Part_08.mp4",
+    "durationSeconds": 7878,
+    "durationFormatted": "02:11:18"
+  },
+  {
+    "title": "Dynamic Programming (DP) : DPP 01 Discussion.mp4",
+    "durationSeconds": 3713,
+    "durationFormatted": "01:01:53"
+  },
+  {
+    "title": "Graph Algorithms 01 : Graph Algorithms (Part 01).mp4",
+    "durationSeconds": 8046,
+    "durationFormatted": "02:14:06"
+  },
+  {
+    "title": "Graph Algorithms 02 : Graph Algorithms (Part 02).mp4",
+    "durationSeconds": 8079,
+    "durationFormatted": "02:14:39"
+  },
+  {
+    "title": "Graph Algorithms 03 : Graph Algorithms (Part 03).mp4",
+    "durationSeconds": 7687,
+    "durationFormatted": "02:08:07"
+  },
+  {
+    "title": "Heap Algorithms 01 : Heap Algorithms (Part 01).mp4",
+    "durationSeconds": 7859,
+    "durationFormatted": "02:10:59"
+  },
+  {
+    "title": "Heap Algorithms 02 : Heap Algorithms (Part 02).mp4",
+    "durationSeconds": 7674,
+    "durationFormatted": "02:07:54"
+  },
+  {
+    "title": "Heap Algorithms 03 : Heap Algorithms (Part 03).mp4",
+    "durationSeconds": 7742,
+    "durationFormatted": "02:09:02"
+  },
+  {
+    "title": "Heap Algorithms : DPP 01 Discussion.mp4",
+    "durationSeconds": 3635,
+    "durationFormatted": "01:00:35"
+  },
+  {
+    "title": "Miscellaneous 01 : Miscellaneous (Part 01).mp4",
+    "durationSeconds": 8124,
+    "durationFormatted": "02:15:24"
+  },
+  {
+    "title": "Miscellaneous 02 : Miscellaneous (Part 02).mp4",
+    "durationSeconds": 7815,
+    "durationFormatted": "02:10:15"
+  },
+  {
+    "title": "Miscellaneous 03 : Miscellaneous (Part 03).mp4",
+    "durationSeconds": 7712,
+    "durationFormatted": "02:08:32"
+  },
+  {
+    "title": "Miscellaneous 04 : Miscellaneous (Part 04).mp4",
+    "durationSeconds": 8107,
+    "durationFormatted": "02:15:07"
+  },
+  {
+    "title": "Miscellaneous : DPP 01 Discussion.mp4",
+    "durationSeconds": 5109,
+    "durationFormatted": "01:25:09"
+  },
+  {
+    "title": "DBMS 01 : DBMS (Part 01).mp4",
+    "durationSeconds": 6344,
+    "durationFormatted": "01:45:44"
+  },
+  {
+    "title": "DBMS 02 : DBMS (Part 02).mp4",
+    "durationSeconds": 5096,
+    "durationFormatted": "01:24:56"
+  },
+  {
+    "title": "DBMS 03 : DBMS (Part 03).mp4",
+    "durationSeconds": 9608,
+    "durationFormatted": "02:40:08"
+  },
+  {
+    "title": "DBMS 04 : DBMS (Part 04).mp4",
+    "durationSeconds": 10772,
+    "durationFormatted": "02:59:32"
+  },
+  {
+    "title": "DBMS 05 : DBMS (Part 05).mp4",
+    "durationSeconds": 12344,
+    "durationFormatted": "03:25:44"
+  },
+  {
+    "title": "DBMS 06 : DBMS (Part 06).mp4",
+    "durationSeconds": 8544,
+    "durationFormatted": "02:22:24"
+  },
+  {
+    "title": "DBMS 07 : DBMS (Part 07).mp4",
+    "durationSeconds": 8126,
+    "durationFormatted": "02:15:26"
+  },
+  {
+    "title": "DBMS 08 : DBMS (Part 08).mp4",
+    "durationSeconds": 9324,
+    "durationFormatted": "02:35:24"
+  },
+  {
+    "title": "DBMS 09 : DBMS (Part 09).mp4",
+    "durationSeconds": 5272,
+    "durationFormatted": "01:27:52"
+  },
+  {
+    "title": "DBMS 10 : DBMS (Part 10).mp4",
+    "durationSeconds": 6108,
+    "durationFormatted": "01:41:48"
+  },
+  {
+    "title": "DBMS 11 : DBMS (Part 11).mp4",
+    "durationSeconds": 8948,
+    "durationFormatted": "02:29:08"
+  },
+  {
+    "title": "DBMS 12 : DBMS (Part 12).mp4",
+    "durationSeconds": 5397,
+    "durationFormatted": "01:29:57"
+  },
+  {
+    "title": "DBMS 13 : DBMS (Part 13).mp4",
+    "durationSeconds": 7096,
+    "durationFormatted": "01:58:16"
+  },
+  {
+    "title": "DBMS 14 : DBMS (Part 14).mp4",
+    "durationSeconds": 9652,
+    "durationFormatted": "02:40:52"
+  },
+  {
+    "title": "DBMS 15 : DBMS (Part 15).mp4",
+    "durationSeconds": 8928,
+    "durationFormatted": "02:28:48"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 2872,
+    "durationFormatted": "00:47:52"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 3142,
+    "durationFormatted": "00:52:22"
+  },
+  {
+    "title": "DBMS : DPP 03 Discussion.mp4",
+    "durationSeconds": 2990,
+    "durationFormatted": "00:49:50"
+  },
+  {
+    "title": "IP_address_Subnetting,_Supernetting_01_:_IP_address_Subnetting,.mp4",
+    "durationSeconds": 7150,
+    "durationFormatted": "01:59:10"
+  },
+  {
+    "title": "IP_address_Subnetting,_Supernetting_02_:_IP_address_Subnetting,.mp4",
+    "durationSeconds": 6828,
+    "durationFormatted": "01:53:48"
+  },
+  {
+    "title": "IP_address_Subnetting,_Supernetting_03_:_IP_address_Subnetting,.mp4",
+    "durationSeconds": 7442,
+    "durationFormatted": "02:04:02"
+  },
+  {
+    "title": "IP_address_Subnetting,_Supernetting_04_:_IP_address_Subnetting,.mp4",
+    "durationSeconds": 7142,
+    "durationFormatted": "01:59:02"
+  },
+  {
+    "title": "IP_address_Subnetting,_Supernetting_05_:_IP_address_Subnetting,.mp4",
+    "durationSeconds": 7372,
+    "durationFormatted": "02:02:52"
+  },
+  {
+    "title": "IP_address_Subnetting,_Supernetting_06_:_IP_address_Subnetting,.mp4",
+    "durationSeconds": 7164,
+    "durationFormatted": "01:59:24"
+  },
+  {
+    "title": "IP_address_Subnetting,_Supernetting_07_:_IP_address_Subnetting,.mp4",
+    "durationSeconds": 7318,
+    "durationFormatted": "02:01:58"
+  },
+  {
+    "title": "IP_address_Subnetting,_Supernetting_08_:_IP_address_Subnetting,.mp4",
+    "durationSeconds": 7344,
+    "durationFormatted": "02:02:24"
+  },
+  {
+    "title": "IP_address_Subnetting,_Supernetting_09_:_IP_address_Subnetting,.mp4",
+    "durationSeconds": 7300,
+    "durationFormatted": "02:01:40"
+  },
+  {
+    "title": "IP_address_Subnetting,_Supernetting_10_:_IP_address_Subnetting,.mp4",
+    "durationSeconds": 7228,
+    "durationFormatted": "02:00:28"
+  },
+  {
+    "title": "IP_address_Subnetting,_Supernetting_11_:_IP_address_Subnetting,.mp4",
+    "durationSeconds": 7304,
+    "durationFormatted": "02:01:44"
+  },
+  {
+    "title": "IP_address_Subnetting,_Supernetting_12_:_IP_address_Subnetting,.mp4",
+    "durationSeconds": 7190,
+    "durationFormatted": "01:59:50"
+  },
+  {
+    "title": "IP address Subnetting, Supernetting : DPP 01 Discussion.mp4",
+    "durationSeconds": 7327,
+    "durationFormatted": "02:02:07"
+  },
+  {
+    "title": "Flow Control Methods 01 : Flow Control Methods (Part 01).mp4",
+    "durationSeconds": 7256,
+    "durationFormatted": "02:00:56"
+  },
+  {
+    "title": "Flow Control Methods 02 : Flow Control Methods (Part 02).mp4",
+    "durationSeconds": 7568,
+    "durationFormatted": "02:06:08"
+  },
+  {
+    "title": "Flow Control Methods 03 : Flow Control Methods (Part 03).mp4",
+    "durationSeconds": 6900,
+    "durationFormatted": "01:55:00"
+  },
+  {
+    "title": "Flow Control Methods 04 : Flow Control Methods (Part 04).mp4",
+    "durationSeconds": 7193,
+    "durationFormatted": "01:59:53"
+  },
+  {
+    "title": "Flow Control Methods 05 : Flow Control Methods (Part 05).mp4",
+    "durationSeconds": 5850,
+    "durationFormatted": "01:37:30"
+  },
+  {
+    "title": "Error Control Methods (One Shot).mp4",
+    "durationSeconds": 7354,
+    "durationFormatted": "02:02:34"
+  },
+  {
+    "title": "Error Control Methods : DPP 01 Discussion.mp4",
+    "durationSeconds": 3253,
+    "durationFormatted": "00:54:13"
+  },
+  {
+    "title": "ISO-OSI Stack 01 : ISO-OSI Stack (Part 01).mp4",
+    "durationSeconds": 7270,
+    "durationFormatted": "02:01:10"
+  },
+  {
+    "title": "ISO-OSI Stack 02 : ISO-OSI Stack (Part 02).mp4",
+    "durationSeconds": 7140,
+    "durationFormatted": "01:59:00"
+  },
+  {
+    "title": "ISO-OSI Stack 03 : ISO-OSI Stack (Part 03).mp4",
+    "durationSeconds": 5680,
+    "durationFormatted": "01:34:40"
+  },
+  {
+    "title": "ISO-OSI Stack 04 : ISO-OSI Stack (Part 04).mp4",
+    "durationSeconds": 3676,
+    "durationFormatted": "01:01:16"
+  },
+  {
+    "title": "ISO-OSI Stack 05 : ISO-OSI Stack (Part 05).mp4",
+    "durationSeconds": 7396,
+    "durationFormatted": "02:03:16"
+  },
+  {
+    "title": "ISO-OSI Stack 06 : ISO-OSI Stack (Part 06).mp4",
+    "durationSeconds": 6800,
+    "durationFormatted": "01:53:20"
+  },
+  {
+    "title": "ISO_OSI_Stack_07_:_ISO_OSI_Stack_Part_07_||_Extra_Recorded_Class.mp4",
+    "durationSeconds": 1867,
+    "durationFormatted": "00:31:07"
+  },
+  {
+    "title": "ISO-OSI Stack 08 : ISO-OSI Stack (Part 08).mp4",
+    "durationSeconds": 4580,
+    "durationFormatted": "01:16:20"
+  },
+  {
+    "title": "ISO-OSI Stack 09 : ISO-OSI Stack (Part 09).mp4",
+    "durationSeconds": 7228,
+    "durationFormatted": "02:00:28"
+  },
+  {
+    "title": "ISO-OSI Stack : DPP 01 Discussion.mp4",
+    "durationSeconds": 2250,
+    "durationFormatted": "00:37:30"
+  },
+  {
+    "title": "ISO-OSI Stack : DPP 02 Discussion.mp4",
+    "durationSeconds": 1076,
+    "durationFormatted": "00:17:56"
+  },
+  {
+    "title": "Routing 01 : Routing (Part 01).mp4",
+    "durationSeconds": 7403,
+    "durationFormatted": "02:03:23"
+  },
+  {
+    "title": "Routing 02 : Routing (Part 02) || Rescheduled.mp4",
+    "durationSeconds": 5681,
+    "durationFormatted": "01:34:41"
+  },
+  {
+    "title": "Routing : DPP 01 Discussion.mp4",
+    "durationSeconds": 2383,
+    "durationFormatted": "00:39:43"
+  },
+  {
+    "title": "TCP and UDP 01 : TCP and UDP (Part 01).mp4",
+    "durationSeconds": 7170,
+    "durationFormatted": "01:59:30"
+  },
+  {
+    "title": "TCP and UDP 02 : TCP and UDP (Part 02).mp4",
+    "durationSeconds": 7158,
+    "durationFormatted": "01:59:18"
+  },
+  {
+    "title": "TCP and UDP 03 : TCP and UDP (Part 03).mp4",
+    "durationSeconds": 7345,
+    "durationFormatted": "02:02:25"
+  },
+  {
+    "title": "TCP and UDP 04 : TCP and UDP (Part 04).mp4",
+    "durationSeconds": 7117,
+    "durationFormatted": "01:58:37"
+  },
+  {
+    "title": "TCP and UDP : DPP 01 Discussion.mp4",
+    "durationSeconds": 2477,
+    "durationFormatted": "00:41:17"
+  },
+  {
+    "title": "Hardware_and_Various_Devices_Used_in_Networking_01_:_Hardware_and.mp4",
+    "durationSeconds": 7261,
+    "durationFormatted": "02:01:01"
+  },
+  {
+    "title": "Hardware_and_Various_Devices_Used_in_Networking_02_:_Hardware_and.mp4",
+    "durationSeconds": 7151,
+    "durationFormatted": "01:59:11"
+  },
+  {
+    "title": "Hardware_and_Various_Devices_Used_in_Networking_03_:_Hardware_and.mp4",
+    "durationSeconds": 7174,
+    "durationFormatted": "01:59:34"
+  },
+  {
+    "title": "Application_Layer_Protocols_01_:_Application_Layer_Protocols_Part.mp4",
+    "durationSeconds": 7179,
+    "durationFormatted": "01:59:39"
+  },
+  {
+    "title": "Application_Layer_Protocols_02_:_Application_Layer_Protocols_Part.mp4",
+    "durationSeconds": 7453,
+    "durationFormatted": "02:04:13"
+  },
+  {
+    "title": "Application_Layer_Protocols_03_:_Application_Layer_Protocols_Part.mp4",
+    "durationSeconds": 7126,
+    "durationFormatted": "01:58:46"
+  },
+  {
+    "title": "Application_Layer_Protocols_04_:_Application_Layer_Protocols_Part.mp4",
+    "durationSeconds": 7218,
+    "durationFormatted": "02:00:18"
+  },
+  {
+    "title": "Application Layer Protocols : DPP 01 Discussion.mp4",
+    "durationSeconds": 538,
+    "durationFormatted": "00:08:58"
+  },
+  {
+    "title": "PYQ - CN 01 : PYQ - CN (Part 01).mp4",
+    "durationSeconds": 7181,
+    "durationFormatted": "01:59:41"
+  },
+  {
+    "title": "PYQ - CN 02 : PYQ - CN (Part 02).mp4",
+    "durationSeconds": 7155,
+    "durationFormatted": "01:59:15"
+  },
+  {
+    "title": "PYQ - CN 03 : PYQ - CN (Part 03) || Rescheduled.mp4",
+    "durationSeconds": 3604,
+    "durationFormatted": "01:00:04"
+  },
+  {
+    "title": "Boolean_Theorems_and_Gates_01_:_Boolean_Theorems_and_Gates_Part.mp4",
+    "durationSeconds": 7514,
+    "durationFormatted": "02:05:14"
+  },
+  {
+    "title": "Boolean_Theorems_and_Gates_02_:_Boolean_Theorems_and_Gates_Part.mp4",
+    "durationSeconds": 7644,
+    "durationFormatted": "02:07:24"
+  },
+  {
+    "title": "Boolean_Theorems_and_Gates_03_:_Boolean_Theorems_and_Gates_Part.mp4",
+    "durationSeconds": 7900,
+    "durationFormatted": "02:11:40"
+  },
+  {
+    "title": "Boolean_Theorems_and_Gates_04_:_Boolean_Theorems_and_Gates_Part.mp4",
+    "durationSeconds": 7858,
+    "durationFormatted": "02:10:58"
+  },
+  {
+    "title": "Boolean_Theorems_and_Gates_05_:_Boolean_Theorems_and_Gates_Part.mp4",
+    "durationSeconds": 8016,
+    "durationFormatted": "02:13:36"
+  },
+  {
+    "title": "Boolean_Theorems_and_Gates_06_:_Boolean_Theorems_and_Gates_Part.mp4",
+    "durationSeconds": 6981,
+    "durationFormatted": "01:56:21"
+  },
+  {
+    "title": "Boolean_Theorems_and_Gates_07_:_Boolean_Theorems_and_Gates_Part.mp4",
+    "durationSeconds": 7476,
+    "durationFormatted": "02:04:36"
+  },
+  {
+    "title": "Boolean_Theorems_and_Gates_08_:_Boolean_Theorems_and_Gates_Part.mp4",
+    "durationSeconds": 8344,
+    "durationFormatted": "02:19:04"
+  },
+  {
+    "title": "Boolean_Theorems_and_Gates_09_:_Boolean_Theorems_and_Gates_Part.mp4",
+    "durationSeconds": 7893,
+    "durationFormatted": "02:11:33"
+  },
+  {
+    "title": "Boolean_Theorems_and_Gates_10_:_Boolean_Theorems_and_Gates_Part.mp4",
+    "durationSeconds": 8290,
+    "durationFormatted": "02:18:10"
+  },
+  {
+    "title": "Boolean_Theorems_and_Gates_11_:_Boolean_Theorems_and_Gates_Part.mp4",
+    "durationSeconds": 8649,
+    "durationFormatted": "02:24:09"
+  },
+  {
+    "title": "Boolean_Theorems_and_Gates_12_:_Boolean_Theorems_and_Gates_Part.mp4",
+    "durationSeconds": 8216,
+    "durationFormatted": "02:16:56"
+  },
+  {
+    "title": ".mp4",
+    "durationSeconds": 3742,
+    "durationFormatted": "01:02:22"
+  },
+  {
+    "title": "Combinational Circuit 01 : Combinational Circuit (Part 01).mp4",
+    "durationSeconds": 7940,
+    "durationFormatted": "02:12:20"
+  },
+  {
+    "title": "Combinational Circuit 02 : Combinational Circuit (Part 02).mp4",
+    "durationSeconds": 9212,
+    "durationFormatted": "02:33:32"
+  },
+  {
+    "title": "Combinational_Circuit_03_:_Combinational_Circuit_Part_03_||_Reschedule.mp4",
+    "durationSeconds": 6313,
+    "durationFormatted": "01:45:13"
+  },
+  {
+    "title": "Combinational Circuit 04 : Combinational Circuit (Part 04).mp4",
+    "durationSeconds": 9235,
+    "durationFormatted": "02:33:55"
+  },
+  {
+    "title": "Combinational Circuit 05 : Combinational Circuit (Part 05).mp4",
+    "durationSeconds": 8876,
+    "durationFormatted": "02:27:56"
+  },
+  {
+    "title": "Combinational Circuit 06 : Combinational Circuit (Part 06).mp4",
+    "durationSeconds": 9137,
+    "durationFormatted": "02:32:17"
+  },
+  {
+    "title": "Combinational Circuit 07 : Combinational Circuit (Part 07).mp4",
+    "durationSeconds": 8840,
+    "durationFormatted": "02:27:20"
+  },
+  {
+    "title": "Combinational Circuit 08 : Combinational Circuit (Part 08).mp4",
+    "durationSeconds": 8974,
+    "durationFormatted": "02:29:34"
+  },
+  {
+    "title": "Combinational Circuit 09 : Combinational Circuit (Part 09).mp4",
+    "durationSeconds": 9234,
+    "durationFormatted": "02:33:54"
+  },
+  {
+    "title": "Combinational Circuit 10 : Combinational Circuit (Part 10).mp4",
+    "durationSeconds": 9113,
+    "durationFormatted": "02:31:53"
+  },
+  {
+    "title": "Combinational Circuit 11 : Combinational Circuit (Part 11).mp4",
+    "durationSeconds": 9598,
+    "durationFormatted": "02:39:58"
+  },
+  {
+    "title": "Combinational Circuit 12 : Combinational Circuit (Part 12).mp4",
+    "durationSeconds": 9079,
+    "durationFormatted": "02:31:19"
+  },
+  {
+    "title": "Combinational Circuit 13 : Combinational Circuit (Part 13).mp4",
+    "durationSeconds": 9265,
+    "durationFormatted": "02:34:25"
+  },
+  {
+    "title": "Combinational Circuit 14 : Combinational Circuit (Part 14).mp4",
+    "durationSeconds": 9202,
+    "durationFormatted": "02:33:22"
+  },
+  {
+    "title": "Combinational Circuit : DPP 01 Discussion.mp4",
+    "durationSeconds": 20808,
+    "durationFormatted": "05:46:48"
+  },
+  {
+    "title": "Sequential Circuit 01 : Sequential Circuit (Part 01).mp4",
+    "durationSeconds": 9417,
+    "durationFormatted": "02:36:57"
+  },
+  {
+    "title": "Sequential Circuit 02 : Sequential Circuit (Part 02).mp4",
+    "durationSeconds": 10101,
+    "durationFormatted": "02:48:21"
+  },
+  {
+    "title": "Sequential Circuit 03 : Sequential Circuit (Part 03).mp4",
+    "durationSeconds": 8956,
+    "durationFormatted": "02:29:16"
+  },
+  {
+    "title": "Sequential Circuit 04 : Sequential Circuit (Part 04).mp4",
+    "durationSeconds": 9154,
+    "durationFormatted": "02:32:34"
+  },
+  {
+    "title": "Sequential Circuit 05 : Sequential Circuit (Part 05).mp4",
+    "durationSeconds": 8936,
+    "durationFormatted": "02:28:56"
+  },
+  {
+    "title": "Sequential Circuit 06 : Sequential Circuit (Part 06).mp4",
+    "durationSeconds": 9493,
+    "durationFormatted": "02:38:13"
+  },
+  {
+    "title": "Sequential Circuit 07 : Sequential Circuit (Part 07).mp4",
+    "durationSeconds": 9233,
+    "durationFormatted": "02:33:53"
+  },
+  {
+    "title": "Sequential Circuit 08 : Sequential Circuit (Part 08).mp4",
+    "durationSeconds": 9870,
+    "durationFormatted": "02:44:30"
+  },
+  {
+    "title": "Sequential Circuit 09 : Sequential Circuit (Part 09).mp4",
+    "durationSeconds": 9195,
+    "durationFormatted": "02:33:15"
+  },
+  {
+    "title": "Sequential Circuit 10 : Sequential Circuit (Part 10).mp4",
+    "durationSeconds": 12973,
+    "durationFormatted": "03:36:13"
+  },
+  {
+    "title": "Sequential Circuit : DPP 01 Discussion.mp4",
+    "durationSeconds": 17615,
+    "durationFormatted": "04:53:35"
+  },
+  {
+    "title": "Miscellaneous Topics 01 : Miscellaneous Topics (Part 01).mp4",
+    "durationSeconds": 9387,
+    "durationFormatted": "02:36:27"
+  },
+  {
+    "title": "Miscellaneous Topics 02 : Miscellaneous Topics (Part 02).mp4",
+    "durationSeconds": 9170,
+    "durationFormatted": "02:32:50"
+  },
+  {
+    "title": "Miscellaneous_Topics_03_:_Miscellaneous_Topics_Part_03_||_Extra.mp4",
+    "durationSeconds": 11836,
+    "durationFormatted": "03:17:16"
+  },
+  {
+    "title": "Miscellaneous_Topics_04_:_Miscellaneous_Topics_Part_04_||_Extra.mp4",
+    "durationSeconds": 4475,
+    "durationFormatted": "01:14:35"
+  },
+  {
+    "title": "Miscellaneous_Topics_05_:_Miscellaneous_Topics_Part_05_||_Extra.mp4",
+    "durationSeconds": 9928,
+    "durationFormatted": "02:45:28"
+  },
+  {
+    "title": "Miscellaneous_Topics_06_:_Miscellaneous_Topics_Part_06_||_Extra.mp4",
+    "durationSeconds": 11154,
+    "durationFormatted": "03:05:54"
+  },
+  {
+    "title": "Miscellaneous_Topics_07_:_Miscellaneous_Topics_Part_07_||_Extra.mp4",
+    "durationSeconds": 9509,
+    "durationFormatted": "02:38:29"
+  },
+  {
+    "title": "Miscellaneous_Topics_08_:_Miscellaneous_Topics_Part_08_||_Extra.mp4",
+    "durationSeconds": 6772,
+    "durationFormatted": "01:52:52"
+  },
+  {
+    "title": "Quantitative Aptitude 01 : Calendars.mp4",
+    "durationSeconds": 6680,
+    "durationFormatted": "01:51:20"
+  },
+  {
+    "title": "Quantitative Aptitude 02 : Clocks.mp4",
+    "durationSeconds": 6760,
+    "durationFormatted": "01:52:40"
+  },
+  {
+    "title": "Quantitative Aptitude 03 : Average.mp4",
+    "durationSeconds": 6852,
+    "durationFormatted": "01:54:12"
+  },
+  {
+    "title": "Quantitative Aptitude 04 : Percentages.mp4",
+    "durationSeconds": 7420,
+    "durationFormatted": "02:03:40"
+  },
+  {
+    "title": "Quantitative Aptitude 05 : Profit and Loss.mp4",
+    "durationSeconds": 6552,
+    "durationFormatted": "01:49:12"
+  },
+  {
+    "title": "Quantitative_Aptitude_06_:_Mixtures_and_Allegations_||_Rescheduled.mp4",
+    "durationSeconds": 6644,
+    "durationFormatted": "01:50:44"
+  },
+  {
+    "title": "Quantitative Aptitude 07 : Number System (Part - 01).mp4",
+    "durationSeconds": 4094,
+    "durationFormatted": "01:08:14"
+  },
+  {
+    "title": "Quantitative Aptitude 08 : Number System (Part - 02).mp4",
+    "durationSeconds": 7091,
+    "durationFormatted": "01:58:11"
+  },
+  {
+    "title": "Quantitative Aptitude 09 : Counting Theory.mp4",
+    "durationSeconds": 7049,
+    "durationFormatted": "01:57:29"
+  },
+  {
+    "title": "Quantitative Aptitude 10 : Time and Work.mp4",
+    "durationSeconds": 5828,
+    "durationFormatted": "01:37:08"
+  },
+  {
+    "title": "Quantitative Aptitude 11 : Pipes and Cistern.mp4",
+    "durationSeconds": 6312,
+    "durationFormatted": "01:45:12"
+  },
+  {
+    "title": "Quantitative Aptitude 12 : Time and Distance.mp4",
+    "durationSeconds": 5445,
+    "durationFormatted": "01:30:45"
+  },
+  {
+    "title": "Quantitative Aptitude 13 : Trains Boats and Races.mp4",
+    "durationSeconds": 6103,
+    "durationFormatted": "01:41:43"
+  },
+  {
+    "title": "Quantitative Aptitude 14 : Data Interpretation.mp4",
+    "durationSeconds": 5378,
+    "durationFormatted": "01:29:38"
+  },
+  {
+    "title": "Quantitative Aptitude 15 : Mensuration.mp4",
+    "durationSeconds": 5536,
+    "durationFormatted": "01:32:16"
+  },
+  {
+    "title": "Quantitative Aptitude 16 : Interest  || (Pre-Recorded).mp4",
+    "durationSeconds": 2996,
+    "durationFormatted": "00:49:56"
+  },
+  {
+    "title": "Quantitative Aptitude : DPP 01 (Calendar) Discussion.mp4",
+    "durationSeconds": 1132,
+    "durationFormatted": "00:18:52"
+  },
+  {
+    "title": "Quantitative Aptitude : DPP 02 (Clock) Discussion.mp4",
+    "durationSeconds": 692,
+    "durationFormatted": "00:11:32"
+  },
+  {
+    "title": "Quantitative Aptitude : DPP 03 Discussion (Percentage).mp4",
+    "durationSeconds": 1263,
+    "durationFormatted": "00:21:03"
+  },
+  {
+    "title": "Quantitative_Aptitude_:_DPP_04_Discussion_Profit_&_Loss.mp4",
+    "durationSeconds": 1522,
+    "durationFormatted": "00:25:22"
+  },
+  {
+    "title": "Quantitative_Aptitude_:_DPP_05_Discussion_Mixtures_Alligations.mp4",
+    "durationSeconds": 1486,
+    "durationFormatted": "00:24:46"
+  },
+  {
+    "title": "Quantitative Aptitude : DPP 06 Discussion (Number System).mp4",
+    "durationSeconds": 1444,
+    "durationFormatted": "00:24:04"
+  },
+  {
+    "title": "Quantitative Aptitude : DPP 07 Discussion (Time & Work).mp4",
+    "durationSeconds": 1661,
+    "durationFormatted": "00:27:41"
+  },
+  {
+    "title": "Quantitative_Aptitude_:_DPP_08_Discussion_Pipes_&_Cistern.mp4",
+    "durationSeconds": 1598,
+    "durationFormatted": "00:26:38"
+  },
+  {
+    "title": "Quantitative_Aptitude_:_DPP_09_Discussion_Time_and_Distance.mp4",
+    "durationSeconds": 1632,
+    "durationFormatted": "00:27:12"
+  },
+  {
+    "title": "Quantitative_Aptitude_:_DPP_10_Discussion_Trains_Boats_&_Races.mp4",
+    "durationSeconds": 1397,
+    "durationFormatted": "00:23:17"
+  },
+  {
+    "title": "Quantitative_Aptitude_:_DPP_11_Discussion_Data_Interpretation.mp4",
+    "durationSeconds": 1188,
+    "durationFormatted": "00:19:48"
+  },
+  {
+    "title": "Analytical Aptitude 01 : Blood Relations || (Pre-Recorded).mp4",
+    "durationSeconds": 7190,
+    "durationFormatted": "01:59:50"
+  },
+  {
+    "title": "Analytical Aptitude 02 : Coding Decoding And Directions.mp4",
+    "durationSeconds": 6332,
+    "durationFormatted": "01:45:32"
+  },
+  {
+    "title": "Analytical_Aptitude_03_:_Arrangements_and_Ranking_||_Pre_recorded.mp4",
+    "durationSeconds": 7659,
+    "durationFormatted": "02:07:39"
+  },
+  {
+    "title": "Analytical Aptitude 04 : Problem Solving  || Pre-recorded.mp4",
+    "durationSeconds": 7322,
+    "durationFormatted": "02:02:02"
+  },
+  {
+    "title": "Analytical Aptitude 05 : Cubes and Dices.mp4",
+    "durationSeconds": 6605,
+    "durationFormatted": "01:50:05"
+  },
+  {
+    "title": "Analytical Aptitude 06 : Venn Diagrams.mp4",
+    "durationSeconds": 6578,
+    "durationFormatted": "01:49:38"
+  },
+  {
+    "title": "Analytical Aptitude : DPP 01 Discussion (Blood Relations).mp4",
+    "durationSeconds": 803,
+    "durationFormatted": "00:13:23"
+  },
+  {
+    "title": "Analytical_Aptitude_:_DPP_02_Discussion_Coding_Decoding_&_Directions.mp4",
+    "durationSeconds": 1189,
+    "durationFormatted": "00:19:49"
+  },
+  {
+    "title": "Analytical_Aptitude_:_DPP_03_Discussion_Arrangements_&_Ranking.mp4",
+    "durationSeconds": 1179,
+    "durationFormatted": "00:19:39"
+  },
+  {
+    "title": "Analytical Aptitude : DPP 04 Discussion (Problem Solving).mp4",
+    "durationSeconds": 1163,
+    "durationFormatted": "00:19:23"
+  },
+  {
+    "title": "Analytical Aptitude : DPP 05 Discussion (Cubes & Dices).mp4",
+    "durationSeconds": 681,
+    "durationFormatted": "00:11:21"
+  },
+  {
+    "title": "Analytical Aptitude : DPP 06 Discussion (Venn Diagrams).mp4",
+    "durationSeconds": 1442,
+    "durationFormatted": "00:24:02"
+  },
+  {
+    "title": "Spatial Aptitude 01 : Formation of Images.mp4",
+    "durationSeconds": 5223,
+    "durationFormatted": "01:27:03"
+  },
+  {
+    "title": "Spatial Aptitude 02 : Paper Folding and Cutting.mp4",
+    "durationSeconds": 7172,
+    "durationFormatted": "01:59:32"
+  },
+  {
+    "title": "Spatial Aptitude : DPP 01 Discussion (Formation of Images).mp4",
+    "durationSeconds": 639,
+    "durationFormatted": "00:10:39"
+  },
+  {
+    "title": "Spatial_Aptitude_:_DPP_02_Discussion_Paper_Folding_and_Cutting.mp4",
+    "durationSeconds": 846,
+    "durationFormatted": "00:14:06"
+  },
+  {
+    "title": "Prerequisites_of_Engineering_Mathematics_01_:_Polynomial_&_Quadratic.mp4",
+    "durationSeconds": 9658,
+    "durationFormatted": "02:40:58"
+  },
+  {
+    "title": "Prerequisites_of_Engineering_Mathematics_02_:_Inequalities_&_Mod.mp4",
+    "durationSeconds": 6030,
+    "durationFormatted": "01:40:30"
+  },
+  {
+    "title": "Prerequisites of Engineering Mathematics 03 : Logarithms.mp4",
+    "durationSeconds": 4160,
+    "durationFormatted": "01:09:20"
+  },
+  {
+    "title": "Prerequisites_of_Engineering_Mathematics_04_:_Partial_Fraction.mp4",
+    "durationSeconds": 3028,
+    "durationFormatted": "00:50:28"
+  },
+  {
+    "title": "Prerequisites_of_Engineering_Mathematics_05_:_Mensuration_Area_and.mp4",
+    "durationSeconds": 4857,
+    "durationFormatted": "01:20:57"
+  },
+  {
+    "title": "Prerequisites_of_Engineering_Mathematics_06_:_Conic_Section_Circle.mp4",
+    "durationSeconds": 9266,
+    "durationFormatted": "02:34:26"
+  },
+  {
+    "title": "Prerequisites_of_Engineering_Mathematics_07_:_AP,_GP_&_AGP.mp4",
+    "durationSeconds": 7349,
+    "durationFormatted": "02:02:29"
+  },
+  {
+    "title": "Prerequisites_of_Engineering_Mathematics_08_:_Binomial_Theorem.mp4",
+    "durationSeconds": 7178,
+    "durationFormatted": "01:59:38"
+  },
+  {
+    "title": "Prerequisites of Engineering Mathematics 09 : Vectors.mp4",
+    "durationSeconds": 8318,
+    "durationFormatted": "02:18:38"
+  },
+  {
+    "title": "Prerequisites of Engineering Mathematics 10 : Complex Number.mp4",
+    "durationSeconds": 9484,
+    "durationFormatted": "02:38:04"
+  },
+  {
+    "title": "Prerequisites of Engineering Mathematics 11 : Trigonometry.mp4",
+    "durationSeconds": 11445,
+    "durationFormatted": "03:10:45"
+  },
+  {
+    "title": "Prerequisites of Engineering Mathematics 12 : Matrix.mp4",
+    "durationSeconds": 7476,
+    "durationFormatted": "02:04:36"
+  },
+  {
+    "title": "Prerequisites of Engineering Mathematics 13 : Determinant.mp4",
+    "durationSeconds": 7298,
+    "durationFormatted": "02:01:38"
+  },
+  {
+    "title": "Prerequisites_of_Engineering_Mathematics_14_:_Basics_of_Limits.mp4",
+    "durationSeconds": 5272,
+    "durationFormatted": "01:27:52"
+  },
+  {
+    "title": "Prerequisites_of_Engineering_Mathematics_15_:_Differentiation.mp4",
+    "durationSeconds": 7654,
+    "durationFormatted": "02:07:34"
+  },
+  {
+    "title": "Prerequisites_of_Engineering_Mathematics_16_:_Maxima_and_Minima.mp4",
+    "durationSeconds": 5979,
+    "durationFormatted": "01:39:39"
+  },
+  {
+    "title": "Prerequisites_of_Engineering_Mathematics_17_:_Indefinite_Integration.mp4",
+    "durationSeconds": 7327,
+    "durationFormatted": "02:02:07"
+  },
+  {
+    "title": "Prerequisites_of_Engineering_Mathematics_18_:_Definite_Integration.mp4",
+    "durationSeconds": 6408,
+    "durationFormatted": "01:46:48"
+  },
+  {
+    "title": "Prerequisites_of_Engineering_Mathematics_19_:_Application_of_Laplace.mp4",
+    "durationSeconds": 4607,
+    "durationFormatted": "01:16:47"
+  },
+  {
+    "title": "Prerequisites_of_Engineering_Mathematics_20_:_Linear_Interpolation.mp4",
+    "durationSeconds": 2514,
+    "durationFormatted": "00:41:54"
+  },
+  {
+    "title": "Prerequisites_of_Engineering_Mathematics_21_:_P&C_/_Probability.mp4",
+    "durationSeconds": 6771,
+    "durationFormatted": "01:52:51"
+  },
+  {
+    "title": "Prerequisites of Engineering Mathematics 22 : Percentage.mp4",
+    "durationSeconds": 5202,
+    "durationFormatted": "01:26:42"
+  },
+  {
+    "title": "Prerequisites_of_Engineering_Mathematics_23_:_Average_&_Weighted.mp4",
+    "durationSeconds": 3842,
+    "durationFormatted": "01:04:02"
+  },
+  {
+    "title": "Prerequisites of Engineering Mathematics 24 : Set Theory.mp4",
+    "durationSeconds": 4644,
+    "durationFormatted": "01:17:24"
+  },
+  {
+    "title": "Prerequisites_of_Engineering_Mathematics_25_:_Recursive_Relation.mp4",
+    "durationSeconds": 3062,
+    "durationFormatted": "00:51:02"
+  },
+  {
+    "title": "Introduction 01 : Language Processor - I.mp4",
+    "durationSeconds": 3344,
+    "durationFormatted": "00:55:44"
+  },
+  {
+    "title": "Introduction 02 : Language Processor - II.mp4",
+    "durationSeconds": 2142,
+    "durationFormatted": "00:35:42"
+  },
+  {
+    "title": "Data Types & Operator 01 : Number System in C Language.mp4",
+    "durationSeconds": 5854,
+    "durationFormatted": "01:37:34"
+  },
+  {
+    "title": "Data Types & Operator 02 : Structure of C program.mp4",
+    "durationSeconds": 3639,
+    "durationFormatted": "01:00:39"
+  },
+  {
+    "title": "Data_Types_&_Operator_03_:_Data_Type_&_Operator_Part_01.mp4",
+    "durationSeconds": 3442,
+    "durationFormatted": "00:57:22"
+  },
+  {
+    "title": "Data_Types_&_Operator_04_:_Data_Type_&_Operator_Part_02.mp4",
+    "durationSeconds": 3382,
+    "durationFormatted": "00:56:22"
+  },
+  {
+    "title": "Data_Types_&_Operator_05_:_Data_Type_&_Operator_Part_03.mp4",
+    "durationSeconds": 3519,
+    "durationFormatted": "00:58:39"
+  },
+  {
+    "title": "Control Flow Statement 01 : Control Flow Statement (Part 01).mp4",
+    "durationSeconds": 3363,
+    "durationFormatted": "00:56:03"
+  },
+  {
+    "title": "Control Flow Statement 02 : Control Flow Statement (Part 02).mp4",
+    "durationSeconds": 3538,
+    "durationFormatted": "00:58:58"
+  },
+  {
+    "title": "Control Flow Statement 03 : Control Flow Statement (Part 03).mp4",
+    "durationSeconds": 3166,
+    "durationFormatted": "00:52:46"
+  },
+  {
+    "title": "Function & Storage Class 01 : Function (Part 01).mp4",
+    "durationSeconds": 3162,
+    "durationFormatted": "00:52:42"
+  },
+  {
+    "title": "Function & Storage Class 02 : Function (Part 02).mp4",
+    "durationSeconds": 3626,
+    "durationFormatted": "01:00:26"
+  },
+  {
+    "title": "Function & Storage Class 03 : Local and Global Variable.mp4",
+    "durationSeconds": 3500,
+    "durationFormatted": "00:58:20"
+  },
+  {
+    "title": "Function & Storage Class 04 : Storage Class.mp4",
+    "durationSeconds": 3533,
+    "durationFormatted": "00:58:53"
+  },
+  {
+    "title": "Array & Pointer 01 : Pointer.mp4",
+    "durationSeconds": 3123,
+    "durationFormatted": "00:52:03"
+  },
+  {
+    "title": "Array & Pointer 02 : Array.mp4",
+    "durationSeconds": 3290,
+    "durationFormatted": "00:54:50"
+  },
+  {
+    "title": "Array & Pointer 03 : Array 1-D.mp4",
+    "durationSeconds": 3224,
+    "durationFormatted": "00:53:44"
+  },
+  {
+    "title": "Array & Pointer 04 : Array 2-D.mp4",
+    "durationSeconds": 3386,
+    "durationFormatted": "00:56:26"
+  },
+  {
+    "title": "String & Structure  01 : String.mp4",
+    "durationSeconds": 2979,
+    "durationFormatted": "00:49:39"
+  },
+  {
+    "title": "String & Structure 02 : Structure & Union.mp4",
+    "durationSeconds": 3185,
+    "durationFormatted": "00:53:05"
+  },
+  {
+    "title": "Basics_Of_Computer_System_01_:_Components_of_Computer_||_Recorded.mp4",
+    "durationSeconds": 3213,
+    "durationFormatted": "00:53:33"
+  },
+  {
+    "title": "Basics_Of_Computer_System_02_:_How_a_Computer_Works_||_Recorded.mp4",
+    "durationSeconds": 2860,
+    "durationFormatted": "00:47:40"
+  },
+  {
+    "title": "Basics_Of_Computer_System_03_:_Data_in_Computer_System_||_Recorded.mp4",
+    "durationSeconds": 2220,
+    "durationFormatted": "00:37:00"
+  },
+  {
+    "title": "Basics Of  Computer System 04 : Number System || Recorded.mp4",
+    "durationSeconds": 2538,
+    "durationFormatted": "00:42:18"
+  },
+  {
+    "title": "Basics_Of_Computer_System_05_:_Binary_and_Power_of_2s_||_Recorded.mp4",
+    "durationSeconds": 2250,
+    "durationFormatted": "00:37:30"
+  },
+  {
+    "title": "Basics_Of_Computer_System_06_:_Units_&_Conversions_||_Recorded.mp4",
+    "durationSeconds": 2857,
+    "durationFormatted": "00:47:37"
+  },
+  {
+    "title": "Basics_Of_Computer_System_07_:_Various_Terminologies_||_Recorded.mp4",
+    "durationSeconds": 1382,
+    "durationFormatted": "00:23:02"
+  },
+  {
+    "title": "Basics Of  Computer System 08 : Memory System || Recorded.mp4",
+    "durationSeconds": 1625,
+    "durationFormatted": "00:27:05"
+  },
+  {
+    "title": "Basics_Of_Computer_System_09_:_Basics_of_Operating_System_||_Recorded.mp4",
+    "durationSeconds": 1765,
+    "durationFormatted": "00:29:25"
+  },
+  {
+    "title": "Basics_Of_Computer_System_10_:_Basics_of_Data_Structures_||_Recorded.mp4",
+    "durationSeconds": 1781,
+    "durationFormatted": "00:29:41"
+  }
+]
