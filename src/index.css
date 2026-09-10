@@ -1,28 +1,10 @@
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');
 
-html {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-body {
-  margin: 0;
-  min-height: 100vh;
-  font-family: 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  line-height: 1.5;
-  color: #0f172a;
-  background: #f1f5f9;
-}
-
-#root {
-  min-height: 100vh;
-}
-
-button,
-select {
-  font: inherit;
-}
+:root { font-family: 'DM Sans', 'Segoe UI', sans-serif; color: #17211d; background: #f4f5f0; font-synthesis: none; text-rendering: optimizeLegibility; }
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { margin: 0; min-width: 320px; min-height: 100vh; line-height: 1.5; }
+button, select { font: inherit; }
+button, select, a { -webkit-tap-highlight-color: transparent; }
+button:focus-visible, select:focus-visible, a:focus-visible { outline: 3px solid rgba(239, 109, 78, 0.45); outline-offset: 3px; }
+#root { min-height: 100vh; }
