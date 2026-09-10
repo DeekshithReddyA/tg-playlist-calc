@@ -128,20 +128,27 @@ function Home() {
 
     const workbook = new ExcelJS.Workbook();
     const worksheet = workbook.addWorksheet('Sheet1');
-    worksheet.addRow(['Day', 'Title', 'Duration', 'Status']);
+    worksheet.addRow(['Day', 'Date', 'Video Title','Video URL', 'Duration', 'Status']);
     worksheet.getRow(1).font = { bold: true };
-    worksheet.getColumn('B').width = 100;
-    worksheet.getColumn('C').width = 20;
+    worksheet.getColumn('B').width = 20;
+    worksheet.getColumn('C').width = 100;
     worksheet.getColumn('D').width = 20;
+    worksheet.getColumn('E').width = 20;
+    worksheet.getColumn('F').width = 20;
     worksheet.getColumn('A').font = { size: 18 };
     worksheet.getColumn('B').font = { size: 18 };
     worksheet.getColumn('C').font = { size: 18 };
     worksheet.getColumn('D').font = { size: 18 };
+    worksheet.getColumn('E').font = { size: 18 };
+    worksheet.getColumn('F').font = { size: 18 };
 
     plannedRows.forEach((row) => {
       worksheet.addRow([
-        row.day,
+        "Day " + row.day,
+        // Today's date and increasing in the format of Sep 11, 2026, Sep 12, 2026, etc.
+        new Date(Date.now() + row.day * 24 * 60 * 60 * 1000).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }),
         row.title,
+        '-',
         formatDuration(row.durationSeconds),
         'Todo',
       ]);

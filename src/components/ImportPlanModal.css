@@ -1,0 +1,83 @@
+.import-modal__backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  background: rgba(0, 0, 0, 0.65);
+}
+
+.import-modal {
+  width: min(440px, 100%);
+  padding: 1.5rem;
+  border-radius: 16px;
+  background: #18181b;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 24px 48px rgba(0, 0, 0, 0.45);
+}
+
+.import-modal__title {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+.import-modal__subtitle {
+  margin: 0.35rem 0 1.25rem;
+  color: #a1a1aa;
+  font-size: 0.9rem;
+}
+
+.import-modal__label {
+  display: block;
+  margin-bottom: 0.35rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #d4d4d8;
+}
+
+.import-modal__input {
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 0.6rem 0.75rem;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: #0b0b0f;
+  color: #fff;
+}
+
+.import-modal__error {
+  margin: 0 0 1rem;
+  color: #f87171;
+  font-size: 0.875rem;
+}
+
+.import-modal__actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+}
+
+.import-modal__btn {
+  padding: 0.55rem 1rem;
+  border-radius: 10px;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.import-modal__btn--ghost {
+  background: transparent;
+  color: #d4d4d8;
+}
+
+.import-modal__btn--primary {
+  background: #f97316;
+  color: #0b0b0f;
+}
+
+.import-modal__btn--primary:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
