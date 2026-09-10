@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useState } from 'react';
-import { Link, useParams } from 'react-router-dom';
+import { Link, useNavigate, useParams } from 'react-router-dom';
 import { api } from '../../lib/api';
 import type { PlanItem } from '../../types/plan';
 import './MyPlan.css';
@@ -21,11 +21,13 @@ function formatDayDate(dateStr: string | null, dayNumber: number, startDate: str
 
 export function PlanDetail() {
   const { planId } = useParams<{ planId: string }>();
+  const navigate = useNavigate();
   const [items, setItems] = useState<PlanItem[]>([]);
   const [plan, setPlan] = useState<Awaited<ReturnType<typeof api.getPlan>>['plan'] | null>(null);
   const [stats, setStats] = useState({ totalVideos: 0, completedVideos: 0, progressPercent: 0 });
   const [expandedDays, setExpandedDays] = useState<Set<number>>(new Set([1]));
   const [loading, setLoading] = useState(true);
+  const [deleting, setDeleting] = useState(false);
   const [error, setError] = useState('');
 
   const load = useCallback(async () => {
@@ -91,6 +93,22 @@ export function PlanDetail() {
     });
   }
 
+  async function handleDelete() {
+    if (!planId || !plan || !window.confirm(`Delete "${plan.title}"? This cannot be undone.`)) {
+      return;
+    }
+
+    setDeleting(true);
+    setError('');
+    try {
+      await api.deletePlan(planId);
+      navigate(`/my-plan/profiles/${plan.profile_id}`);
+    } catch (e) {
+      setError(e instanceof Error ? e.message : 'Failed to delete plan');
+      setDeleting(false);
+    }
+  }
+
   if (loading) {
     return (
       <div className="my-plan">
@@ -151,6 +169,16 @@ export function PlanDetail() {
                 style={{ width: `${stats.progressPercent}%` }}
               />
             </div>
+          </div>
+          <div className="plan-detail__actions">
+            <button
+              type="button"
+              className="my-plan__btn my-plan__btn--danger"
+              onClick={handleDelete}
+              disabled={deleting}
+            >
+              {deleting ? 'Deleting…' : 'Delete plan'}
+            </button>
           </div>
         </section>
 

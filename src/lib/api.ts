@@ -27,6 +27,7 @@ async function request<T>(path: string, init?: RequestInit): Promise<T> {
 }
 
 export const api = {
+  warmup: () => request<{ ok: boolean }>('/api/health'),
   getProfiles: () => request<Profile[]>('/api/profiles'),
   createProfile: (name: string, avatarColor: string) =>
     request<Profile>('/api/profiles', {
@@ -38,6 +39,7 @@ export const api = {
   getPlansForProfile: (profileId: string) =>
     request<PlanSummary[]>(`/api/profiles/${profileId}/plans`),
   getPlan: (planId: string) => request<PlanDetail>(`/api/plans/${planId}`),
+  deletePlan: (planId: string) => request<void>(`/api/plans/${planId}`, { method: 'DELETE' }),
   setItemCompleted: (itemId: string, completed: boolean) =>
     request(`/api/plan-items/${itemId}`, {
       method: 'PATCH',

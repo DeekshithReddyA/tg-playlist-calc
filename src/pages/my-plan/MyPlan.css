@@ -322,6 +322,17 @@
   margin-top: 1.25rem;
 }
 
+.plan-detail__actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 1rem;
+}
+
+.my-plan__btn:disabled {
+  cursor: wait;
+  opacity: 0.6;
+}
+
 .plan-detail__days {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));

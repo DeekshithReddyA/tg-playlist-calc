@@ -1,11 +1,17 @@
+import { useEffect } from 'react';
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
 import { AppLayout } from './layout/AppLayout';
+import { api } from './lib/api';
 import Home from './pages/Home';
 import { PlanDetail } from './pages/my-plan/PlanDetail';
 import { PlansList } from './pages/my-plan/PlansList';
 import { ProfileSelect } from './pages/my-plan/ProfileSelect';
 
 function App() {
+  useEffect(() => {
+    void api.warmup().catch(() => undefined);
+  }, []);
+
   return (
     <BrowserRouter>
       <Routes>
